@@ -270,7 +270,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		oNgI4QGd4MYIPkXo2AjrRhKR/Nk=
+		InIKnXTUped8MF/AhtSNkoOhjo4=
 		</data>
 		<key>LICENSE.txt</key>
 		<data>
@@ -376,6 +376,24 @@
 			<key>hash</key>
 			<data>
 			VkhN7W7MWlCzTOcHkbTyZehH9Uo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>el.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YbFKI46dEZ54QejICXgXcAP97Bg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>el.lproj/Localizable.stringsdict</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sasA7BLw23o5xYJT9scJLyLU5x4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5723,6 +5741,32 @@
 			<key>hash2</key>
 			<data>
 			//ELdtxWRG9cpN3ImFB1qA+PbO1Ec4c/3ZG+JuMM+Sw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>el.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YbFKI46dEZ54QejICXgXcAP97Bg=
+			</data>
+			<key>hash2</key>
+			<data>
+			E9CQjGfKJZPzgSiMzvM4xIk7iM1p7XZud3+bEd2sTlk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>el.lproj/Localizable.stringsdict</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sasA7BLw23o5xYJT9scJLyLU5x4=
+			</data>
+			<key>hash2</key>
+			<data>
+			JoC0ZSJa6HyGCIqquRztzEGn8Y0HF/oM3O+kYR883Io=
 			</data>
 			<key>optional</key>
 			<true/>
