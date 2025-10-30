@@ -1,19 +1,19 @@
 {
     "colors": {
-        "globalPrimary": "#5C98FF",
+        "globalPrimary": "#226699",
         "globalPrimaryText": "#DBDBDB",
-        "globalPrimaryButton": "#5C98FF",
+        "globalPrimaryButton": "#226699",
         "globalPrimaryButtonHover": "#407ADE",
         "globalPrimaryButtonText": "#FFFFFF",
         "globalSecondary": "#666666",
         "globalSecondaryText": "#C9C9C9",
         "globalSecondaryButton": "#1C2533",
         "globalSecondaryButtonHover": "#323F54",
-        "globalSecondaryButtonText": "#5C98FF",
+        "globalSecondaryButtonText": "#226699",
         "globalBackground": "#000000",
         "globalOverlay": "#33323A",
 
-        "mapNavBackground": "#5C98FF",
+        "mapNavBackground": "#226699",
         "mapNavText": "#FFFFFF",
         "mapNavSearchResults": "#CA4800",
         "mapNavSearchResultsText": "#FFFFFF",
@@ -22,6 +22,6 @@
         "widgetText": "#FFFFFF",
         "widgetIcons": "#FFFFFF",
         
-        "myLocationPrimary": "#5C98FF"
+        "myLocationPrimary": "#226699"
     }
 }

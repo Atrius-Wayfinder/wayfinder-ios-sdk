@@ -122,7 +122,7 @@ NS_SWIFT_NAME(setAnalyticsUserProperty(_:forName:));
  * Default setting is NO.
  */
 @property (nonatomic) BOOL useBestForNavigation;
-
+ 
 /**
  * Setting this to YES allows the SDK to use the heading derived from Core Location.
  * Otherwise the heading is calculated via change in position.
