@@ -1,0 +1,3922 @@
+{
+  "airindia" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 204,
+    "height" : 53,
+    "x" : 3084
+  },
+  "supershuttle" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 50,
+    "height" : 50,
+    "x" : 4529
+  },
+  "gate.sign" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 1281
+  },
+  "vivaair" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 200,
+    "height" : 60,
+    "x" : 3774
+  },
+  "mexicana" : {
+    "y" : 2805,
+    "pixelRatio" : 2,
+    "width" : 124,
+    "height" : 46,
+    "x" : 3502
+  },
+  "seaupgrade" : {
+    "y" : 2047,
+    "pixelRatio" : 2,
+    "width" : 1024,
+    "height" : 378,
+    "x" : 670
+  },
+  "rhonexpress" : {
+    "y" : 3124,
+    "pixelRatio" : 2,
+    "width" : 680,
+    "height" : 180,
+    "x" : 1024
+  },
+  "transport.passengerpickup" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 5042
+  },
+  "services.smokingarea" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4274
+  },
+  "portal.movingwalkway" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2403
+  },
+  "chinaairlinesenglish" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 290,
+    "height" : 60,
+    "x" : 2835
+  },
+  "interjet" : {
+    "y" : 0,
+    "pixelRatio" : 2,
+    "width" : 206,
+    "height" : 38,
+    "x" : 3723
+  },
+  "turkishairlines" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 179,
+    "height" : 54,
+    "x" : 5124
+  },
+  "parking.ev" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2019
+  },
+  "atlasair" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 149,
+    "height" : 57,
+    "x" : 5517
+  },
+  "mapnote.selected" : {
+    "y" : 3124,
+    "pixelRatio" : 2,
+    "width" : 116,
+    "height" : 164,
+    "x" : 2468
+  },
+  "scatairlines" : {
+    "y" : 0,
+    "pixelRatio" : 2,
+    "width" : 182,
+    "height" : 37,
+    "x" : 5444
+  },
+  "dynamicLabel" : {
+    "y" : 2805,
+    "pixelRatio" : 2,
+    "width" : 160,
+    "height" : 160,
+    "x" : 2120
+  },
+  "bulgariaair" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 228,
+    "height" : 66,
+    "x" : 1611
+  },
+  "westjet" : {
+    "y" : 2437,
+    "pixelRatio" : 2,
+    "width" : 216,
+    "height" : 43,
+    "x" : 5321
+  },
+  "southafrican" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 269,
+    "height" : 101,
+    "x" : 1103
+  },
+  "caribbeanairlines" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 215,
+    "height" : 83,
+    "x" : 1459
+  },
+  "transport.valet" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 5554
+  },
+  "portal.stairs" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2531
+  },
+  "selectedbg" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 82,
+    "height" : 106,
+    "x" : 275
+  },
+  "ticketing" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4786
+  },
+  "dot.shop" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 32,
+    "height" : 32,
+    "x" : 3721
+  },
+  "airniugini" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 114,
+    "height" : 111,
+    "x" : 2722
+  },
+  "airmoldova" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 175,
+    "height" : 61,
+    "x" : 4312
+  },
+  "services.auditoryassistance" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 5347
+  },
+  "3Dsign2.gate.departures" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 280,
+    "height" : 96,
+    "x" : 1006
+  },
+  "relax.prayerroom" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3043
+  },
+  "security" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4515
+  },
+  "vivaaerobus" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 183,
+    "height" : 27,
+    "x" : 3285
+  },
+  "grandcanyonscenicairlines" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 240,
+    "height" : 100,
+    "x" : 1372
+  },
+  "transport.underground" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 130,
+    "height" : 130,
+    "x" : 954
+  },
+  "czechairlines" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 193,
+    "height" : 64,
+    "x" : 448
+  },
+  "tui" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 115,
+    "height" : 47,
+    "x" : 5675
+  },
+  "section.building" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3811
+  },
+  "airnorth" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 140,
+    "height" : 80,
+    "x" : 2084
+  },
+  "tsapre" : {
+    "y" : 2437,
+    "pixelRatio" : 2,
+    "width" : 134,
+    "height" : 43,
+    "x" : 5187
+  },
+  "harbourair" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 270,
+    "height" : 50,
+    "x" : 2836
+  },
+  "thomascookairlines" : {
+    "y" : 4115,
+    "pixelRatio" : 2,
+    "width" : 213,
+    "height" : 20,
+    "x" : 1985
+  },
+  "pin.arrivals" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 84,
+    "height" : 112,
+    "x" : 2304
+  },
+  "relax.lounge" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2851
+  },
+  "koreanair" : {
+    "y" : 1024,
+    "pixelRatio" : 2,
+    "width" : 250,
+    "height" : 40,
+    "x" : 3413
+  },
+  "play" : {
+    "y" : 1024,
+    "pixelRatio" : 2,
+    "width" : 140,
+    "height" : 40,
+    "x" : 4289
+  },
+  "baggage.office" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2722
+  },
+  "services.sensoryroom" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4146
+  },
+  "mos.pinadded" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 84,
+    "height" : 112,
+    "x" : 2220
+  },
+  "wayfinding.stairs.down" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3828
+  },
+  "services.meetingpoint" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3570
+  },
+  "gol" : {
+    "y" : 2805,
+    "pixelRatio" : 2,
+    "width" : 113,
+    "height" : 46,
+    "x" : 3202
+  },
+  "wizzair" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 109,
+    "height" : 50,
+    "x" : 5029
+  },
+  "restroom.accessible" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3363
+  },
+  "aviapartner" : {
+    "y" : 2805,
+    "pixelRatio" : 2,
+    "width" : 1000,
+    "height" : 280,
+    "x" : 1120
+  },
+  "niki" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 109,
+    "height" : 65,
+    "x" : 1903
+  },
+  "airmediterranee" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 83,
+    "height" : 70,
+    "x" : 2541
+  },
+  "wayfinding.train.up" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4084
+  },
+  "egyptair" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 170,
+    "height" : 24,
+    "x" : 4945
+  },
+  "services.changingroomadult" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 5539
+  },
+  "phillippineairlines" : {
+    "y" : 1024,
+    "pixelRatio" : 2,
+    "width" : 274,
+    "height" : 40,
+    "x" : 4015
+  },
+  "pin.grabordering" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 82,
+    "height" : 112,
+    "x" : 2472
+  },
+  "swiftair" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 208,
+    "height" : 29,
+    "x" : 1096
+  },
+  "belavia" : {
+    "y" : 2437,
+    "pixelRatio" : 2,
+    "width" : 175,
+    "height" : 43,
+    "x" : 3911
+  },
+  "dot.security" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 32,
+    "height" : 32,
+    "x" : 3657
+  },
+  "aerlinguslarger" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 410,
+    "height" : 80,
+    "x" : 1674
+  },
+  "transport.shuttle.secure" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 5362
+  },
+  "dot.exit" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 32,
+    "height" : 32,
+    "x" : 3337
+  },
+  "ezrentacar" : {
+    "y" : 2047,
+    "pixelRatio" : 2,
+    "width" : 159,
+    "height" : 40,
+    "x" : 5552
+  },
+  "suncountry-center" : {
+    "y" : 2805,
+    "pixelRatio" : 2,
+    "width" : 170,
+    "height" : 160,
+    "x" : 2280
+  },
+  "royalairmaroc" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 144,
+    "height" : 102,
+    "x" : 600
+  },
+  "services.soapdispenser" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4338
+  },
+  "3000" : {
+    "y" : 1024,
+    "pixelRatio" : 2,
+    "width" : 1023,
+    "height" : 1023,
+    "x" : 0
+  },
+  "copaairlines" : {
+    "y" : 2437,
+    "pixelRatio" : 2,
+    "width" : 258,
+    "height" : 43,
+    "x" : 4086
+  },
+  "aeromexico" : {
+    "y" : 3124,
+    "pixelRatio" : 2,
+    "width" : 267,
+    "height" : 47,
+    "x" : 3262
+  },
+  "wayfinding.bus" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 5618
+  },
+  "transport.shuttle.public" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 5298
+  },
+  "test-broken" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 150,
+    "height" : 50,
+    "x" : 4579
+  },
+  "3Dsign2.checkin" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 308,
+    "height" : 128,
+    "x" : 1084
+  },
+  "ethiopian" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 164,
+    "height" : 68,
+    "x" : 1155
+  },
+  "airdo" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 200,
+    "height" : 53,
+    "x" : 2884
+  },
+  "mspreserve" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 240,
+    "height" : 50,
+    "x" : 3356
+  },
+  "airjamaica" : {
+    "y" : 4115,
+    "pixelRatio" : 2,
+    "width" : 192,
+    "height" : 21,
+    "x" : 1006
+  },
+  "parking.accessible" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 1955
+  },
+  "services.ppe" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3954
+  },
+  "freebirdairlines" : {
+    "y" : 0,
+    "pixelRatio" : 2,
+    "width" : 177,
+    "height" : 37,
+    "x" : 4694
+  },
+  "fox-rent-a-car" : {
+    "y" : 0,
+    "pixelRatio" : 2,
+    "width" : 724,
+    "height" : 1024,
+    "x" : 0
+  },
+  "airalgerie" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 128,
+    "height" : 91,
+    "x" : 1398
+  },
+  "klm" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 133,
+    "height" : 79,
+    "x" : 1188
+  },
+  "3Dsign2.gate.arrival" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 280,
+    "height" : 96,
+    "x" : 726
+  },
+  "capeair" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 118,
+    "height" : 59,
+    "x" : 4224
+  },
+  "meridiana" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 164,
+    "height" : 26,
+    "x" : 3773
+  },
+  "security.agricultureinspection" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4579
+  },
+  "security.emergencyexit" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4771
+  },
+  "services.bank" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 5411
+  },
+  "wayfinding.exit" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3380
+  },
+  "alliance" : {
+    "y" : 4115,
+    "pixelRatio" : 2,
+    "width" : 121,
+    "height" : 21,
+    "x" : 1198
+  },
+  "cathaypacific" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 190,
+    "height" : 26,
+    "x" : 3583
+  },
+  "3Dsign.parking.accessible" : {
+    "y" : 3124,
+    "pixelRatio" : 2,
+    "width" : 188,
+    "height" : 168,
+    "x" : 2092
+  },
+  "taca" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 282,
+    "height" : 119,
+    "x" : 1392
+  },
+  "mos.addpin" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 84,
+    "height" : 112,
+    "x" : 2136
+  },
+  "airnewzealand" : {
+    "y" : 2805,
+    "pixelRatio" : 2,
+    "width" : 279,
+    "height" : 45,
+    "x" : 4415
+  },
+  "aviorairlines" : {
+    "y" : 2047,
+    "pixelRatio" : 2,
+    "width" : 248,
+    "height" : 40,
+    "x" : 5182
+  },
+  "centralmountainair" : {
+    "y" : 2437,
+    "pixelRatio" : 2,
+    "width" : 138,
+    "height" : 44,
+    "x" : 2888
+  },
+  "security.checkpoint" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4643
+  },
+  "services.mobilityassistance" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3634
+  },
+  "restroom.babycare" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3427
+  },
+  "iskwewair" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 300,
+    "height" : 70,
+    "x" : 0
+  },
+  "security.exit" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4899
+  },
+  "airastana" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 186,
+    "height" : 56,
+    "x" : 3603
+  },
+  "peach" : {
+    "y" : 2437,
+    "pixelRatio" : 2,
+    "width" : 132,
+    "height" : 43,
+    "x" : 4868
+  },
+  "skylogo" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 200,
+    "height" : 57,
+    "x" : 3060
+  },
+  "portal.bus" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2211
+  },
+  "pin.selected" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 84,
+    "height" : 112,
+    "x" : 2638
+  },
+  "allegiantair" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 167,
+    "height" : 60,
+    "x" : 5242
+  },
+  "aeroflot" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 205,
+    "height" : 58,
+    "x" : 4891
+  },
+  "relax.chair" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2723
+  },
+  "services.bikerack" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 5475
+  },
+  "airsenegal" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 270,
+    "height" : 50,
+    "x" : 5175
+  },
+  "3Dsign.checkin.premium" : {
+    "y" : 3124,
+    "pixelRatio" : 2,
+    "width" : 304,
+    "height" : 160,
+    "x" : 2584
+  },
+  "level" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 155,
+    "height" : 27,
+    "x" : 2983
+  },
+  "aeromar" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 180,
+    "height" : 25,
+    "x" : 3937
+  },
+  "wayfinding.security" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3700
+  },
+  "bolivianadeaviacion" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 134,
+    "height" : 71,
+    "x" : 2164
+  },
+  "discoverairlines" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 280,
+    "height" : 90,
+    "x" : 1776
+  },
+  "wayfinding.train" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3956
+  },
+  "taag" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 114,
+    "height" : 62,
+    "x" : 4198
+  },
+  "portal.accessiblestairs" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2147
+  },
+  "testing" : {
+    "y" : 2805,
+    "pixelRatio" : 2,
+    "width" : 308,
+    "height" : 46,
+    "x" : 4107
+  },
+  "section.building.baggage" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3939
+  },
+  "eurowings" : {
+    "y" : 2805,
+    "pixelRatio" : 2,
+    "width" : 182,
+    "height" : 46,
+    "x" : 3020
+  },
+  "security.passportcontrol" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4963
+  },
+  "baggage" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2738
+  },
+  "tnt" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 152,
+    "height" : 55,
+    "x" : 4597
+  },
+  "3Dsign.services.bank" : {
+    "y" : 2437,
+    "pixelRatio" : 2,
+    "width" : 200,
+    "height" : 146,
+    "x" : 2624
+  },
+  "baggage.wrap" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 128
+  },
+  "airbaltic" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 115,
+    "height" : 26,
+    "x" : 3468
+  },
+  "aircanada" : {
+    "y" : 2047,
+    "pixelRatio" : 2,
+    "width" : 320,
+    "height" : 41,
+    "x" : 3207
+  },
+  "eat.bar" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 705
+  },
+  "xiamenair" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 193,
+    "height" : 56,
+    "x" : 4085
+  },
+  "jetairfly" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 226,
+    "height" : 64,
+    "x" : 1473
+  },
+  "boutiqueair" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 136,
+    "height" : 74,
+    "x" : 1877
+  },
+  "wayfinding.bus.down" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 5682
+  },
+  "georgianairways" : {
+    "y" : 3124,
+    "pixelRatio" : 2,
+    "width" : 240,
+    "height" : 47,
+    "x" : 4313
+  },
+  "cityjet" : {
+    "y" : 4115,
+    "pixelRatio" : 2,
+    "width" : 160,
+    "height" : 16,
+    "x" : 2752
+  },
+  "southernairwaysexpress" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 190,
+    "height" : 80,
+    "x" : 600
+  },
+  "wayfinding.escalator.down" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3252
+  },
+  "onejet" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 136,
+    "height" : 36,
+    "x" : 385
+  },
+  "breeze" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 250,
+    "height" : 90,
+    "x" : 1526
+  },
+  "baggage.repack" : {
+    "y" : 2437,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2824
+  },
+  "services.information" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3250
+  },
+  "starlux" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 270,
+    "height" : 50,
+    "x" : 3905
+  },
+  "relax.photobooth" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2979
+  },
+  "restroom.female" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3555
+  },
+  "restroom.unisex" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3683
+  },
+  "inselair" : {
+    "y" : 2437,
+    "pixelRatio" : 2,
+    "width" : 180,
+    "height" : 43,
+    "x" : 4344
+  },
+  "flybmi" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 98,
+    "height" : 60,
+    "x" : 5679
+  },
+  "baggage.claim" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2804
+  },
+  "services.currencyexchange" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 5667
+  },
+  "services.atm" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 5283
+  },
+  "malaysiaairlines" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 249,
+    "height" : 60,
+    "x" : 3315
+  },
+  "viva" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 150,
+    "height" : 50,
+    "x" : 4879
+  },
+  "baggage.weigh" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 64
+  },
+  "airtahitinui" : {
+    "y" : 0,
+    "pixelRatio" : 2,
+    "width" : 194,
+    "height" : 38,
+    "x" : 3295
+  },
+  "skysquad" : {
+    "y" : 3124,
+    "pixelRatio" : 2,
+    "width" : 1024,
+    "height" : 280,
+    "x" : 0
+  },
+  "pacificcoastalairlines" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 152,
+    "height" : 35,
+    "x" : 1136
+  },
+  "ace" : {
+    "y" : 2047,
+    "pixelRatio" : 2,
+    "width" : 75,
+    "height" : 36,
+    "x" : 5711
+  },
+  "national" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 130,
+    "height" : 28,
+    "x" : 2370
+  },
+  "regionalexpress" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 177,
+    "height" : 65,
+    "x" : 2012
+  },
+  "mahanair" : {
+    "y" : 2047,
+    "pixelRatio" : 2,
+    "width" : 141,
+    "height" : 41,
+    "x" : 4201
+  },
+  "iskwew2" : {
+    "y" : 1024,
+    "pixelRatio" : 2,
+    "width" : 160,
+    "height" : 40,
+    "x" : 3103
+  },
+  "fox" : {
+    "y" : 2047,
+    "pixelRatio" : 2,
+    "width" : 670,
+    "height" : 390,
+    "x" : 0
+  },
+  "dollar" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 107,
+    "height" : 29,
+    "x" : 647
+  },
+  "sfo" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 180,
+    "height" : 80,
+    "x" : 420
+  },
+  "icelandairlarger" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 420,
+    "height" : 80,
+    "x" : 0
+  },
+  "baggage.cart" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2802
+  },
+  "airdolomiti" : {
+    "y" : 2047,
+    "pixelRatio" : 2,
+    "width" : 219,
+    "height" : 40,
+    "x" : 4963
+  },
+  "upgradesea" : {
+    "y" : 2437,
+    "pixelRatio" : 2,
+    "width" : 1024,
+    "height" : 368,
+    "x" : 0
+  },
+  "3Dsign.transport.shuttle.secure" : {
+    "y" : 2047,
+    "pixelRatio" : 2,
+    "width" : 96,
+    "height" : 146,
+    "x" : 2786
+  },
+  "services.testing" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4530
+  },
+  "airmalta" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 140,
+    "height" : 76,
+    "x" : 1737
+  },
+  "iberia" : {
+    "y" : 2047,
+    "pixelRatio" : 2,
+    "width" : 187,
+    "height" : 41,
+    "x" : 4014
+  },
+  "relax.seating" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3107
+  },
+  "transport.heathrowexpress" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 130,
+    "height" : 130,
+    "x" : 824
+  },
+  "lacompagnie" : {
+    "y" : 0,
+    "pixelRatio" : 2,
+    "width" : 233,
+    "height" : 37,
+    "x" : 4871
+  },
+  "transport.passengerdropoff" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4978
+  },
+  "clear" : {
+    "y" : 2047,
+    "pixelRatio" : 2,
+    "width" : 122,
+    "height" : 40,
+    "x" : 5430
+  },
+  "art" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2448
+  },
+  "3Dsign.transport.shuttle" : {
+    "y" : 2047,
+    "pixelRatio" : 2,
+    "width" : 96,
+    "height" : 146,
+    "x" : 2594
+  },
+  "uzbekistanairways" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 219,
+    "height" : 51,
+    "x" : 4956
+  },
+  "airbusan" : {
+    "y" : 3124,
+    "pixelRatio" : 2,
+    "width" : 151,
+    "height" : 47,
+    "x" : 3529
+  },
+  "relax.summerofsports" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 130,
+    "height" : 130,
+    "x" : 694
+  },
+  "section.building.inactive" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4259
+  },
+  "services.newspaper" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3826
+  },
+  "rexregionalexpress" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 111,
+    "height" : 51,
+    "x" : 4677
+  },
+  "swoop" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 147,
+    "height" : 27,
+    "x" : 3138
+  },
+  "qantas" : {
+    "y" : 1024,
+    "pixelRatio" : 2,
+    "width" : 203,
+    "height" : 40,
+    "x" : 4429
+  },
+  "airasia" : {
+    "y" : 0,
+    "pixelRatio" : 2,
+    "width" : 141,
+    "height" : 141,
+    "x" : 2738
+  },
+  "tailwindairlines" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 154,
+    "height" : 86,
+    "x" : 972
+  },
+  "usohouston" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 77,
+    "height" : 77,
+    "x" : 1660
+  },
+  "gate" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 1089
+  },
+  "runway" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3747
+  },
+  "eat.coffee" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 769
+  },
+  "corendon" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 187,
+    "height" : 29,
+    "x" : 460
+  },
+  "airitaly" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 217,
+    "height" : 28,
+    "x" : 1458
+  },
+  "transasiaairways" : {
+    "y" : 2047,
+    "pixelRatio" : 2,
+    "width" : 147,
+    "height" : 42,
+    "x" : 3060
+  },
+  "transport" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4914
+  },
+  "kuwaitairways" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 140,
+    "height" : 50,
+    "x" : 5645
+  },
+  "element.door" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 897
+  },
+  "edelweissair" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 219,
+    "height" : 24,
+    "x" : 4726
+  },
+  "services.currencyexchange.euro" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2930
+  },
+  "shop" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4658
+  },
+  "bluedot.disabled" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 50,
+    "height" : 62,
+    "x" : 5731
+  },
+  "montenegroairlines" : {
+    "y" : 4115,
+    "pixelRatio" : 2,
+    "width" : 254,
+    "height" : 21,
+    "x" : 1319
+  },
+  "europcar" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 116,
+    "height" : 28,
+    "x" : 2254
+  },
+  "wayfinding.escalator.up" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3316
+  },
+  "gulfair" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 137,
+    "height" : 49,
+    "x" : 5308
+  },
+  "3Dsign.transport.valet" : {
+    "y" : 3124,
+    "pixelRatio" : 2,
+    "width" : 188,
+    "height" : 168,
+    "x" : 2280
+  },
+  "gate.departures" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 1217
+  },
+  "viaair" : {
+    "y" : 2047,
+    "pixelRatio" : 2,
+    "width" : 149,
+    "height" : 41,
+    "x" : 4624
+  },
+  "transavia" : {
+    "y" : 1024,
+    "pixelRatio" : 2,
+    "width" : 228,
+    "height" : 40,
+    "x" : 5138
+  },
+  "dot.innactive" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 32,
+    "height" : 32,
+    "x" : 3465
+  },
+  "dot.gate" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 32,
+    "height" : 32,
+    "x" : 3369
+  },
+  "sunwingairlines" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 148,
+    "height" : 56,
+    "x" : 3789
+  },
+  "canadiannorth" : {
+    "y" : 2805,
+    "pixelRatio" : 2,
+    "width" : 150,
+    "height" : 46,
+    "x" : 2870
+  },
+  "dot.ticketing" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 32,
+    "height" : 32,
+    "x" : 3753
+  },
+  "mapnote.open" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 80,
+    "height" : 132,
+    "x" : 534
+  },
+  "advantage" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 154,
+    "height" : 28,
+    "x" : 1304
+  },
+  "etihad" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 146,
+    "height" : 61,
+    "x" : 4487
+  },
+  "jejuair" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 189,
+    "height" : 34,
+    "x" : 2037
+  },
+  "okmobility" : {
+    "y" : 3124,
+    "pixelRatio" : 2,
+    "width" : 200,
+    "height" : 170,
+    "x" : 1704
+  },
+  "relax.childrensplayarea" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2787
+  },
+  "aerolineasargentinas" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 142,
+    "height" : 60,
+    "x" : 4933
+  },
+  "texassky" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 109,
+    "height" : 65,
+    "x" : 2189
+  },
+  "restroom.male" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3619
+  },
+  "portal.elevator" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2275
+  },
+  "3Dsign.checkin" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 264,
+    "height" : 96,
+    "x" : 2620
+  },
+  "tame" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 157,
+    "height" : 80,
+    "x" : 790
+  },
+  "transport.taxi" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 5426
+  },
+  "section.building.arrivals" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3875
+  },
+  "3Dsign.baggage.drop" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 174,
+    "height" : 96,
+    "x" : 2166
+  },
+  "airmauritius" : {
+    "y" : 3124,
+    "pixelRatio" : 2,
+    "width" : 218,
+    "height" : 48,
+    "x" : 2888
+  },
+  "sbaairlines" : {
+    "y" : 2805,
+    "pixelRatio" : 2,
+    "width" : 158,
+    "height" : 46,
+    "x" : 3762
+  },
+  "kenyaairways" : {
+    "y" : 2437,
+    "pixelRatio" : 2,
+    "width" : 264,
+    "height" : 44,
+    "x" : 3026
+  },
+  "jetstar" : {
+    "y" : 2047,
+    "pixelRatio" : 2,
+    "width" : 178,
+    "height" : 42,
+    "x" : 2882
+  },
+  "test-working" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 187,
+    "height" : 28,
+    "x" : 2500
+  },
+  "condor" : {
+    "y" : 4115,
+    "pixelRatio" : 2,
+    "width" : 107,
+    "height" : 22,
+    "x" : 691
+  },
+  "enterprise" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 142,
+    "height" : 28,
+    "x" : 2112
+  },
+  "chinaeastern" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 103,
+    "height" : 68,
+    "x" : 1052
+  },
+  "checkin" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 192
+  },
+  "wayfinding.start.ghost" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 32,
+    "height" : 80,
+    "x" : 1156
+  },
+  "evaair" : {
+    "y" : 2805,
+    "pixelRatio" : 2,
+    "width" : 200,
+    "height" : 45,
+    "x" : 4694
+  },
+  "dot.portal" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 32,
+    "height" : 32,
+    "x" : 3561
+  },
+  "uber" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 184,
+    "height" : 25,
+    "x" : 4394
+  },
+  "lot" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 116,
+    "height" : 53,
+    "x" : 5666
+  },
+  "airfrancefavicon" : {
+    "y" : 1024,
+    "pixelRatio" : 2,
+    "width" : 1000,
+    "height" : 1000,
+    "x" : 1023
+  },
+  "luxair" : {
+    "y" : 3124,
+    "pixelRatio" : 2,
+    "width" : 156,
+    "height" : 48,
+    "x" : 3106
+  },
+  "eat.vending" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 833
+  },
+  "aircalin" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 219,
+    "height" : 53,
+    "x" : 5535
+  },
+  "shanghaiairlines" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 158,
+    "height" : 29,
+    "x" : 938
+  },
+  "aircanadarouge" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 151,
+    "height" : 73,
+    "x" : 2013
+  },
+  "suncountry-left" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 177,
+    "height" : 50,
+    "x" : 4352
+  },
+  "3Dsign.baggage.claim" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 174,
+    "height" : 96,
+    "x" : 1992
+  },
+  "relax.observationdeck" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2915
+  },
+  "jet2" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 184,
+    "height" : 29,
+    "x" : 754
+  },
+  "airasiax" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 90,
+    "height" : 87,
+    "x" : 196
+  },
+  "Onet" : {
+    "y" : 0,
+    "pixelRatio" : 2,
+    "width" : 990,
+    "height" : 500,
+    "x" : 724
+  },
+  "section.building.shop" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4387
+  },
+  "alitalia" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 179,
+    "height" : 34,
+    "x" : 1493
+  },
+  "malindoair" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 188,
+    "height" : 114,
+    "x" : 1798
+  },
+  "conviasa" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 250,
+    "height" : 28,
+    "x" : 1675
+  },
+  "arubaairlines" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 139,
+    "height" : 54,
+    "x" : 4985
+  },
+  "section.building.transport" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4451
+  },
+  "bahamasair" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 210,
+    "height" : 83,
+    "x" : 1249
+  },
+  "3Dsign.services.specialservices" : {
+    "y" : 2805,
+    "pixelRatio" : 2,
+    "width" : 240,
+    "height" : 150,
+    "x" : 2450
+  },
+  "tunisair" : {
+    "y" : 0,
+    "pixelRatio" : 2,
+    "width" : 197,
+    "height" : 39,
+    "x" : 3098
+  },
+  "alaska" : {
+    "y" : 2437,
+    "pixelRatio" : 2,
+    "width" : 141,
+    "height" : 42,
+    "x" : 5537
+  },
+  "flybe" : {
+    "y" : 2047,
+    "pixelRatio" : 2,
+    "width" : 100,
+    "height" : 41,
+    "x" : 3693
+  },
+  "springairlines" : {
+    "y" : 1024,
+    "pixelRatio" : 2,
+    "width" : 163,
+    "height" : 40,
+    "x" : 4975
+  },
+  "portal.train" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2595
+  },
+  "relax" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2659
+  },
+  "aigleazur" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 148,
+    "height" : 24,
+    "x" : 4578
+  },
+  "wayfinding.movingwalkway" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3444
+  },
+  "azul" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 170,
+    "height" : 49,
+    "x" : 5138
+  },
+  "vietnamairlines" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 280,
+    "height" : 30,
+    "x" : 0
+  },
+  "transport.sharedride" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 5106
+  },
+  "suncountry" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 177,
+    "height" : 50,
+    "x" : 4175
+  },
+  "dot.restroom" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 32,
+    "height" : 32,
+    "x" : 3625
+  },
+  "srilankanairlines" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 198,
+    "height" : 52,
+    "x" : 4084
+  },
+  "services.firstaid" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3186
+  },
+  "wayfinding.bus.up" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2868
+  },
+  "services.aed" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 5155
+  },
+  "brusselsairlines" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 270,
+    "height" : 60,
+    "x" : 5409
+  },
+  "icelandair" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 420,
+    "height" : 80,
+    "x" : 2351
+  },
+  "shenzhenairlines" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 168,
+    "height" : 51,
+    "x" : 4788
+  },
+  "foxrentacar" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 58,
+    "height" : 33,
+    "x" : 2525
+  },
+  "services.rentalcar" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4082
+  },
+  "virginatlantic" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 232,
+    "height" : 54,
+    "x" : 5303
+  },
+  "transaero" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 217,
+    "height" : 33,
+    "x" : 2793
+  },
+  "croatiaairlines" : {
+    "y" : 4115,
+    "pixelRatio" : 2,
+    "width" : 243,
+    "height" : 20,
+    "x" : 1573
+  },
+  "germanwings" : {
+    "y" : 2047,
+    "pixelRatio" : 2,
+    "width" : 221,
+    "height" : 41,
+    "x" : 3793
+  },
+  "avis" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 82,
+    "height" : 25,
+    "x" : 4117
+  },
+  "middleeastairlines" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 144,
+    "height" : 67,
+    "x" : 1467
+  },
+  "hongkongairlines" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 250,
+    "height" : 50,
+    "x" : 3106
+  },
+  "primeraair" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 238,
+    "height" : 51,
+    "x" : 4439
+  },
+  "test-fixed" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 150,
+    "height" : 50,
+    "x" : 4729
+  },
+  "baggage.service" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 0
+  },
+  "exit" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 961
+  },
+  "dot" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 32,
+    "height" : 32,
+    "x" : 3177
+  },
+  "dot.services" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 32,
+    "height" : 32,
+    "x" : 3689
+  },
+  "austrian" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 213,
+    "height" : 30,
+    "x" : 5344
+  },
+  "vivacolombia" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 151,
+    "height" : 69,
+    "x" : 670
+  },
+  "cobham" : {
+    "y" : 4115,
+    "pixelRatio" : 2,
+    "width" : 120,
+    "height" : 15,
+    "x" : 2912
+  },
+  "marriott" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 150,
+    "height" : 112,
+    "x" : 1986
+  },
+  "airmacau" : {
+    "y" : 2047,
+    "pixelRatio" : 2,
+    "width" : 166,
+    "height" : 41,
+    "x" : 3527
+  },
+  "dot.checkin" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 32,
+    "height" : 32,
+    "x" : 3273
+  },
+  "thrifty" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 93,
+    "height" : 33,
+    "x" : 2700
+  },
+  "chinaunitedairlines" : {
+    "y" : 1024,
+    "pixelRatio" : 2,
+    "width" : 177,
+    "height" : 38,
+    "x" : 5602
+  },
+  "aircairo" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 156,
+    "height" : 86,
+    "x" : 816
+  },
+  "accordingly" : {
+    "y" : 2047,
+    "pixelRatio" : 2,
+    "width" : 190,
+    "height" : 40,
+    "x" : 4773
+  },
+  "lyft" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 155,
+    "height" : 106,
+    "x" : 120
+  },
+  "airtransat" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 228,
+    "height" : 77,
+    "x" : 1321
+  },
+  "exit.emergency" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 1025
+  },
+  "easternairlines" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 195,
+    "height" : 25,
+    "x" : 4199
+  },
+  "emirates" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 123,
+    "height" : 85,
+    "x" : 1126
+  },
+  "blueislands" : {
+    "y" : 3124,
+    "pixelRatio" : 2,
+    "width" : 152,
+    "height" : 46,
+    "x" : 5261
+  },
+  "3Dsign.transport.shuttle.public" : {
+    "y" : 2047,
+    "pixelRatio" : 2,
+    "width" : 96,
+    "height" : 146,
+    "x" : 2690
+  },
+  "jazeeraairways" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 103,
+    "height" : 103,
+    "x" : 497
+  },
+  "services.waterrefill" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4594
+  },
+  "wayfinding.train.down" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4020
+  },
+  "dot.transport" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 32,
+    "height" : 32,
+    "x" : 3785
+  },
+  "bangkokairways" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 98,
+    "height" : 87,
+    "x" : 286
+  },
+  "zipair" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 250,
+    "height" : 60,
+    "x" : 3974
+  },
+  "royaljordanian" : {
+    "y" : 2805,
+    "pixelRatio" : 2,
+    "width" : 196,
+    "height" : 45,
+    "x" : 5313
+  },
+  "spirit" : {
+    "y" : 1024,
+    "pixelRatio" : 2,
+    "width" : 140,
+    "height" : 40,
+    "x" : 4835
+  },
+  "sixt" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 61,
+    "height" : 24,
+    "x" : 5535
+  },
+  "americanairlineshouston" : {
+    "y" : 2437,
+    "pixelRatio" : 2,
+    "width" : 320,
+    "height" : 320,
+    "x" : 1984
+  },
+  "porter" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 146,
+    "height" : 50,
+    "x" : 3596
+  },
+  "latam" : {
+    "y" : 2437,
+    "pixelRatio" : 2,
+    "width" : 185,
+    "height" : 43,
+    "x" : 4524
+  },
+  "nepalairlines" : {
+    "y" : 2047,
+    "pixelRatio" : 2,
+    "width" : 141,
+    "height" : 41,
+    "x" : 4342
+  },
+  "onurair" : {
+    "y" : 0,
+    "pixelRatio" : 2,
+    "width" : 159,
+    "height" : 37,
+    "x" : 5285
+  },
+  "southwest" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 243,
+    "height" : 36,
+    "x" : 521
+  },
+  "dot.misc" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 32,
+    "height" : 32,
+    "x" : 3497
+  },
+  "wayfinding.elevator.up" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3060
+  },
+  "wayfinding.stairs" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3764
+  },
+  "wayfinding.entry" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3124
+  },
+  "alamo" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 72,
+    "height" : 33,
+    "x" : 2453
+  },
+  "americanairlines" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 236,
+    "height" : 54,
+    "x" : 4749
+  },
+  "services.shoeshine" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4210
+  },
+  "3Dsign.security" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 310,
+    "height" : 96,
+    "x" : 416
+  },
+  "checkin.curbside" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 256
+  },
+  "atlasglobal" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 167,
+    "height" : 32,
+    "x" : 3010
+  },
+  "unitedpolaris" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 236,
+    "height" : 137,
+    "x" : 0
+  },
+  "wayfinding.end.ghost" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 90,
+    "x" : 2658
+  },
+  "denverairconnection" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 190,
+    "height" : 60,
+    "x" : 3125
+  },
+  "eat" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 641
+  },
+  "budget" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 165,
+    "height" : 35,
+    "x" : 764
+  },
+  "ukraineinternationalairlines" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 148,
+    "height" : 56,
+    "x" : 3937
+  },
+  "contour" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 155,
+    "height" : 34,
+    "x" : 1882
+  },
+  "garudaairlines" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 150,
+    "height" : 69,
+    "x" : 520
+  },
+  "miatmongolian" : {
+    "y" : 2437,
+    "pixelRatio" : 2,
+    "width" : 159,
+    "height" : 43,
+    "x" : 4709
+  },
+  "saudia" : {
+    "y" : 1024,
+    "pixelRatio" : 2,
+    "width" : 203,
+    "height" : 40,
+    "x" : 4632
+  },
+  "jetairways" : {
+    "y" : 0,
+    "pixelRatio" : 2,
+    "width" : 226,
+    "height" : 38,
+    "x" : 3929
+  },
+  "unitedhouston" : {
+    "y" : 2805,
+    "pixelRatio" : 2,
+    "width" : 320,
+    "height" : 319,
+    "x" : 0
+  },
+  "vueling" : {
+    "y" : 3124,
+    "pixelRatio" : 2,
+    "width" : 145,
+    "height" : 47,
+    "x" : 4948
+  },
+  "condor2" : {
+    "y" : 1024,
+    "pixelRatio" : 2,
+    "width" : 260,
+    "height" : 40,
+    "x" : 2843
+  },
+  "checkin.premium" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 320
+  },
+  "ticketing.selfcheckinkiosk" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4850
+  },
+  "allegiant" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 167,
+    "height" : 60,
+    "x" : 5075
+  },
+  "finnair" : {
+    "y" : 4115,
+    "pixelRatio" : 2,
+    "width" : 208,
+    "height" : 22,
+    "x" : 798
+  },
+  "thaiairways" : {
+    "y" : 2047,
+    "pixelRatio" : 2,
+    "width" : 141,
+    "height" : 41,
+    "x" : 4483
+  },
+  "lynxair" : {
+    "y" : 2805,
+    "pixelRatio" : 2,
+    "width" : 800,
+    "height" : 300,
+    "x" : 320
+  },
+  "laserairlines" : {
+    "y" : 4115,
+    "pixelRatio" : 2,
+    "width" : 132,
+    "height" : 17,
+    "x" : 2337
+  },
+  "swiss" : {
+    "y" : 2437,
+    "pixelRatio" : 2,
+    "width" : 187,
+    "height" : 43,
+    "x" : 5000
+  },
+  "advancedair" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 250,
+    "height" : 30,
+    "x" : 4754
+  },
+  "shop.vending" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4722
+  },
+  "iskwew" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 120,
+    "height" : 30,
+    "x" : 5557
+  },
+  "services.mailbox" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3506
+  },
+  "frontier" : {
+    "y" : 4115,
+    "pixelRatio" : 2,
+    "width" : 139,
+    "height" : 19,
+    "x" : 2198
+  },
+  "services.mothersroom" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3698
+  },
+  "virginaustralia" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 210,
+    "height" : 60,
+    "x" : 3564
+  },
+  "tigerair" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 156,
+    "height" : 59,
+    "x" : 4542
+  },
+  "wayfinding.end" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 90,
+    "x" : 2594
+  },
+  "parking" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 1891
+  },
+  "sonair" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 103,
+    "height" : 31,
+    "x" : 4310
+  },
+  "section.building.security" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4323
+  },
+  "passaredo" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 199,
+    "height" : 87,
+    "x" : 617
+  },
+  "payless" : {
+    "y" : 2805,
+    "pixelRatio" : 2,
+    "width" : 136,
+    "height" : 46,
+    "x" : 3626
+  },
+  "flairairlines" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 108,
+    "height" : 35,
+    "x" : 929
+  },
+  "ana" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 109,
+    "height" : 27,
+    "x" : 2687
+  },
+  "ryanair" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 189,
+    "height" : 31,
+    "x" : 4121
+  },
+  "wayfinding.escalator" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3188
+  },
+  "norwegian" : {
+    "y" : 1024,
+    "pixelRatio" : 2,
+    "width" : 150,
+    "height" : 40,
+    "x" : 3865
+  },
+  "elal" : {
+    "y" : 4115,
+    "pixelRatio" : 2,
+    "width" : 169,
+    "height" : 20,
+    "x" : 1816
+  },
+  "mapnote.resolved" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 80,
+    "height" : 132,
+    "x" : 614
+  },
+  "tapportugal" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 198,
+    "height" : 31,
+    "x" : 4556
+  },
+  "bluedot.enabled" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 50,
+    "height" : 62,
+    "x" : 4148
+  },
+  "united" : {
+    "y" : 1024,
+    "pixelRatio" : 2,
+    "width" : 236,
+    "height" : 40,
+    "x" : 5366
+  },
+  "transport.shuttle" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 5170
+  },
+  "mokuleleairlines" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 198,
+    "height" : 52,
+    "x" : 3886
+  },
+  "sas" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 112,
+    "height" : 93,
+    "x" : 1286
+  },
+  "bimanbangladeshairlines" : {
+    "y" : 3124,
+    "pixelRatio" : 2,
+    "width" : 168,
+    "height" : 46,
+    "x" : 5093
+  },
+  "airfrance" : {
+    "y" : 4115,
+    "pixelRatio" : 2,
+    "width" : 273,
+    "height" : 23,
+    "x" : 0
+  },
+  "3Dsign.gate.departures" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 208,
+    "height" : 96,
+    "x" : 208
+  },
+  "itaairways" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 220,
+    "height" : 90,
+    "x" : 2056
+  },
+  "baggage.oversize" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2786
+  },
+  "relax.tv" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3235
+  },
+  "aireuropa" : {
+    "y" : 0,
+    "pixelRatio" : 2,
+    "width" : 164,
+    "height" : 37,
+    "x" : 4530
+  },
+  "wayfinding.ramp.up" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3636
+  },
+  "pin.mobileentry" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 84,
+    "height" : 112,
+    "x" : 2554
+  },
+  "label.section" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 1827
+  },
+  "sunexpress" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 143,
+    "height" : 31,
+    "x" : 4413
+  },
+  "services.currencyexchange.pound" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2994
+  },
+  "services.prepaidcard" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4018
+  },
+  "chinasouthern" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 210,
+    "height" : 34,
+    "x" : 1672
+  },
+  "pakistaninternational" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 157,
+    "height" : 51,
+    "x" : 4282
+  },
+  "vivaaerobus2" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 180,
+    "height" : 30,
+    "x" : 280
+  },
+  "welcomeair" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 177,
+    "height" : 53,
+    "x" : 3429
+  },
+  "dot.relax" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 32,
+    "height" : 32,
+    "x" : 3593
+  },
+  "firstair" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 187,
+    "height" : 27,
+    "x" : 2796
+  },
+  "aircorsica" : {
+    "y" : 4115,
+    "pixelRatio" : 2,
+    "width" : 283,
+    "height" : 16,
+    "x" : 2469
+  },
+  "arkiaisraeliairlines" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 111,
+    "height" : 77,
+    "x" : 1549
+  },
+  "blueair" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 148,
+    "height" : 67,
+    "x" : 1319
+  },
+  "hawaiianairlines" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 101,
+    "height" : 87,
+    "x" : 384
+  },
+  "vimairlines" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 156,
+    "height" : 57,
+    "x" : 3447
+  },
+  "tway" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 177,
+    "height" : 80,
+    "x" : 947
+  },
+  "omanair" : {
+    "y" : 0,
+    "pixelRatio" : 2,
+    "width" : 156,
+    "height" : 38,
+    "x" : 4155
+  },
+  "services.lottery" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3442
+  },
+  "vietjetair" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 118,
+    "height" : 71,
+    "x" : 2423
+  },
+  "xtraairways" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 227,
+    "height" : 34,
+    "x" : 2226
+  },
+  "3Dsign.security.customs" : {
+    "y" : 4115,
+    "pixelRatio" : 2,
+    "width" : 29,
+    "height" : 14,
+    "x" : 3032
+  },
+  "sea75" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 150,
+    "height" : 100,
+    "x" : 1692
+  },
+  "skyworkairlines" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 163,
+    "height" : 50,
+    "x" : 3742
+  },
+  "label" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 1699
+  },
+  "cyprusairways" : {
+    "y" : 0,
+    "pixelRatio" : 2,
+    "width" : 164,
+    "height" : 36,
+    "x" : 5626
+  },
+  "pin.departures" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 84,
+    "height" : 112,
+    "x" : 2388
+  },
+  "portal" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2083
+  },
+  "portal.escalator" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2339
+  },
+  "services.lostproperty" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3378
+  },
+  "fijiairways" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 224,
+    "height" : 36,
+    "x" : 161
+  },
+  "magnicharters" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 127,
+    "height" : 32,
+    "x" : 3817
+  },
+  "eliteairways" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 207,
+    "height" : 24,
+    "x" : 5115
+  },
+  "aiaparking" : {
+    "y" : 1024,
+    "pixelRatio" : 2,
+    "width" : 820,
+    "height" : 579,
+    "x" : 2023
+  },
+  "lys-fast-track" : {
+    "y" : 2437,
+    "pixelRatio" : 2,
+    "width" : 320,
+    "height" : 320,
+    "x" : 2304
+  },
+  "3Dsign.services.specialservices(old)" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 298,
+    "height" : 132,
+    "x" : 236
+  },
+  "avelo" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 180,
+    "height" : 70,
+    "x" : 2624
+  },
+  "services.internet" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3314
+  },
+  "airgreenland" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 231,
+    "height" : 68,
+    "x" : 821
+  },
+  "transport.shuttle.dropoff" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 5234
+  },
+  "northcaribooair" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 125,
+    "height" : 71,
+    "x" : 2298
+  },
+  "eurowings-discover" : {
+    "y" : 2437,
+    "pixelRatio" : 2,
+    "width" : 960,
+    "height" : 350,
+    "x" : 1024
+  },
+  "worldatlantic" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 196,
+    "height" : 88,
+    "x" : 0
+  },
+  "aerlingus" : {
+    "y" : 2805,
+    "pixelRatio" : 2,
+    "width" : 239,
+    "height" : 44,
+    "x" : 5509
+  },
+  "aegeanairlines" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 300,
+    "height" : 60,
+    "x" : 4633
+  },
+  "custom.grabordering" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 384
+  },
+  "services.police" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3890
+  },
+  "lufthansa" : {
+    "y" : 2437,
+    "pixelRatio" : 2,
+    "width" : 262,
+    "height" : 44,
+    "x" : 3290
+  },
+  "israirairlines" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 177,
+    "height" : 31,
+    "x" : 3944
+  },
+  "chinaairlines" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 280,
+    "height" : 52,
+    "x" : 3606
+  },
+  "att1" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 170,
+    "height" : 30,
+    "x" : 5004
+  },
+  "mos.youarehere" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 40,
+    "height" : 100,
+    "x" : 1612
+  },
+  "xlairways" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 150,
+    "height" : 65,
+    "x" : 2298
+  },
+  "inactive" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 1409
+  },
+  "hertz" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 99,
+    "height" : 35,
+    "x" : 1037
+  },
+  "azerbaijanairlines" : {
+    "y" : 2437,
+    "pixelRatio" : 2,
+    "width" : 159,
+    "height" : 43,
+    "x" : 3752
+  },
+  "airmadagascar" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 205,
+    "height" : 34,
+    "x" : 1288
+  },
+  "att2" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 170,
+    "height" : 30,
+    "x" : 5174
+  },
+  "firefly" : {
+    "y" : 2437,
+    "pixelRatio" : 2,
+    "width" : 93,
+    "height" : 41,
+    "x" : 5678
+  },
+  "security.reservation" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 5027
+  },
+  "jetblue" : {
+    "y" : 1024,
+    "pixelRatio" : 2,
+    "width" : 150,
+    "height" : 40,
+    "x" : 3263
+  },
+  "baggage.drop" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2771
+  },
+  "smartwings" : {
+    "y" : 0,
+    "pixelRatio" : 2,
+    "width" : 219,
+    "height" : 38,
+    "x" : 4311
+  },
+  "3Dsign.gate.arrival" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 208,
+    "height" : 96,
+    "x" : 0
+  },
+  "cubana" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 116,
+    "height" : 101,
+    "x" : 987
+  },
+  "3Dsign.parking" : {
+    "y" : 3124,
+    "pixelRatio" : 2,
+    "width" : 188,
+    "height" : 168,
+    "x" : 1904
+  },
+  "section.building.departures" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4067
+  },
+  "hellenicdutyfree" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 120,
+    "height" : 110,
+    "x" : 0
+  },
+  "dot.art" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 32,
+    "height" : 32,
+    "x" : 3209
+  },
+  "section.building.checkin" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4003
+  },
+  "britishairwaysstack" : {
+    "y" : 2047,
+    "pixelRatio" : 2,
+    "width" : 900,
+    "height" : 370,
+    "x" : 1694
+  },
+  "frenchbee" : {
+    "y" : 3124,
+    "pixelRatio" : 2,
+    "width" : 240,
+    "height" : 47,
+    "x" : 4073
+  },
+  "delta" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 187,
+    "height" : 28,
+    "x" : 1925
+  },
+  "wayfinding.elevator.down" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2996
+  },
+  "portal.ramp" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2467
+  },
+  "adriaairways" : {
+    "y" : 4115,
+    "pixelRatio" : 2,
+    "width" : 178,
+    "height" : 22,
+    "x" : 273
+  },
+  "airserbia" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 127,
+    "height" : 80,
+    "x" : 2224
+  },
+  "wayfinding.ramp" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3508
+  },
+  "hainanairlines" : {
+    "y" : 2805,
+    "pixelRatio" : 2,
+    "width" : 187,
+    "height" : 46,
+    "x" : 3315
+  },
+  "sichuanairlines" : {
+    "y" : 2805,
+    "pixelRatio" : 2,
+    "width" : 187,
+    "height" : 46,
+    "x" : 3920
+  },
+  "lionair" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 224,
+    "height" : 58,
+    "x" : 5096
+  },
+  "relax.showers" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3171
+  },
+  "airchina" : {
+    "y" : 3124,
+    "pixelRatio" : 2,
+    "width" : 185,
+    "height" : 47,
+    "x" : 3680
+  },
+  "restroom" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3299
+  },
+  "singaporeairlines" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 140,
+    "height" : 105,
+    "x" : 357
+  },
+  "iraqiairways" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 132,
+    "height" : 87,
+    "x" : 485
+  },
+  "solaseedair" : {
+    "y" : 3124,
+    "pixelRatio" : 2,
+    "width" : 200,
+    "height" : 47,
+    "x" : 4748
+  },
+  "dot.eat" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 32,
+    "height" : 32,
+    "x" : 3305
+  },
+  "services.currencyexchange.dollar" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2866
+  },
+  "globalentry" : {
+    "y" : 3124,
+    "pixelRatio" : 2,
+    "width" : 195,
+    "height" : 47,
+    "x" : 4553
+  },
+  "wayfinding.elevator" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 2932
+  },
+  "starflyer" : {
+    "y" : 2437,
+    "pixelRatio" : 2,
+    "width" : 200,
+    "height" : 44,
+    "x" : 3552
+  },
+  "security.employee" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4835
+  },
+  "caymanairways" : {
+    "y" : 0,
+    "pixelRatio" : 2,
+    "width" : 234,
+    "height" : 38,
+    "x" : 3489
+  },
+  "silverairways" : {
+    "y" : 0,
+    "pixelRatio" : 2,
+    "width" : 1024,
+    "height" : 481,
+    "x" : 1714
+  },
+  "asianaairlines" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 226,
+    "height" : 64,
+    "x" : 2512
+  },
+  "dot.baggage" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 32,
+    "height" : 32,
+    "x" : 3241
+  },
+  "dot.inactive" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 32,
+    "height" : 32,
+    "x" : 3433
+  },
+  "jal" : {
+    "y" : 4085,
+    "pixelRatio" : 2,
+    "width" : 213,
+    "height" : 24,
+    "x" : 5322
+  },
+  "section.building.gate" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4195
+  },
+  "qatarairways" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 197,
+    "height" : 58,
+    "x" : 5320
+  },
+  "volaris" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 124,
+    "height" : 116,
+    "x" : 1674
+  },
+  "tarom" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 187,
+    "height" : 57,
+    "x" : 3260
+  },
+  "services" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 5091
+  },
+  "wayfinding.ramp.down" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3572
+  },
+  "nearby" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 1839
+  },
+  "nordwindairlines" : {
+    "y" : 1024,
+    "pixelRatio" : 2,
+    "width" : 202,
+    "height" : 40,
+    "x" : 3663
+  },
+  "avianca" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 200,
+    "height" : 50,
+    "x" : 5445
+  },
+  "cebupacific" : {
+    "y" : 0,
+    "pixelRatio" : 2,
+    "width" : 219,
+    "height" : 39,
+    "x" : 2879
+  },
+  "intercaribbeanairways" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 168,
+    "height" : 55,
+    "x" : 4278
+  },
+  "restroom.family" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3491
+  },
+  "services.movie" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3762
+  },
+  "royalbruneiairlines" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 243,
+    "height" : 102,
+    "x" : 744
+  },
+  "gate.arrival" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 1153
+  },
+  "sea75logo" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 150,
+    "height" : 100,
+    "x" : 1842
+  },
+  "wayfinding.stairs.up" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3892
+  },
+  "iranair" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 151,
+    "height" : 55,
+    "x" : 4446
+  },
+  "services.directory" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3058
+  },
+  "transport.train" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 5490
+  },
+  "services.animalreliefarea" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 5219
+  },
+  "vanillaair" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 193,
+    "height" : 59,
+    "x" : 4698
+  },
+  "services.specialservices" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4402
+  },
+  "easyjet" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 161,
+    "height" : 36,
+    "x" : 0
+  },
+  "nouvelair" : {
+    "y" : 3747,
+    "pixelRatio" : 2,
+    "width" : 200,
+    "height" : 59,
+    "x" : 4342
+  },
+  "services.telephone" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4466
+  },
+  "label.building" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 68,
+    "height" : 90,
+    "x" : 2276
+  },
+  "dot.parking" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 32,
+    "height" : 32,
+    "x" : 3529
+  },
+  "s7airlines" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 220,
+    "height" : 70,
+    "x" : 300
+  },
+  "olympicairlines" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 210,
+    "height" : 57,
+    "x" : 2850
+  },
+  "services.chargingstation" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 5603
+  },
+  "northwesternairlease" : {
+    "y" : 0,
+    "pixelRatio" : 2,
+    "width" : 181,
+    "height" : 37,
+    "x" : 5104
+  },
+  "tianjinairlines" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 141,
+    "height" : 53,
+    "x" : 3288
+  },
+  "mos.youarehere.ghost" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 40,
+    "height" : 100,
+    "x" : 1652
+  },
+  "britishairways" : {
+    "y" : 3124,
+    "pixelRatio" : 2,
+    "width" : 308,
+    "height" : 46,
+    "x" : 5413
+  },
+  "section.building.eat" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4131
+  },
+  "label.floor" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 1763
+  },
+  "security.customs" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 4707
+  },
+  "services.drinkingfountain" : {
+    "y" : 3915,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 3122
+  },
+  "germania" : {
+    "y" : 2805,
+    "pixelRatio" : 2,
+    "width" : 212,
+    "height" : 45,
+    "x" : 4894
+  },
+  "airicelandconnect" : {
+    "y" : 3124,
+    "pixelRatio" : 2,
+    "width" : 208,
+    "height" : 47,
+    "x" : 3865
+  },
+  "helveticairways" : {
+    "y" : 2805,
+    "pixelRatio" : 2,
+    "width" : 207,
+    "height" : 45,
+    "x" : 5106
+  },
+  "3Dsign.baggage.oversize" : {
+    "y" : 3541,
+    "pixelRatio" : 2,
+    "width" : 280,
+    "height" : 96,
+    "x" : 2340
+  },
+  "3Dsign.portal.bus" : {
+    "y" : 2805,
+    "pixelRatio" : 2,
+    "width" : 180,
+    "height" : 146,
+    "x" : 2690
+  },
+  "hop" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 117,
+    "height" : 33,
+    "x" : 2583
+  },
+  "hotel" : {
+    "y" : 3985,
+    "pixelRatio" : 2,
+    "width" : 64,
+    "height" : 64,
+    "x" : 1345
+  },
+  "surinamairways" : {
+    "y" : 3404,
+    "pixelRatio" : 2,
+    "width" : 230,
+    "height" : 49,
+    "x" : 5445
+  },
+  "dot.hotel" : {
+    "y" : 4049,
+    "pixelRatio" : 2,
+    "width" : 32,
+    "height" : 32,
+    "x" : 3401
+  },
+  "atlanticairways" : {
+    "y" : 4115,
+    "pixelRatio" : 2,
+    "width" : 240,
+    "height" : 22,
+    "x" : 451
+  },
+  "turo" : {
+    "y" : 3651,
+    "pixelRatio" : 2,
+    "width" : 250,
+    "height" : 90,
+    "x" : 2344
+  },
+  "wayfinding.start" : {
+    "y" : 3835,
+    "pixelRatio" : 2,
+    "width" : 32,
+    "height" : 80,
+    "x" : 1124
+  }
+}

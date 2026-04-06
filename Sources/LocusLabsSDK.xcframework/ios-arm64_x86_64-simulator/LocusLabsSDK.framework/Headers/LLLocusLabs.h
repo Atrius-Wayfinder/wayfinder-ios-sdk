@@ -178,6 +178,13 @@ typedef NS_ENUM(unsigned long, LLLocationAuthorizationPermissionToRequest) {
 + (void)reset;
 
 /**
+ * Set to YES to force the map to show high contrast colors that meet WCAG accessibility standards. Note, your default map colors and selected icons will be overridden by an approved theme that will look different from your base map.
+ * Only use if your basemap is not compliant with accessibility contrast requirements..
+ * Default setting is NO.
+ */
+@property (nonatomic) BOOL showHighContrastMap;
+
+/**
  * Log a person in, associating them with this install of the SDK.
  */
 - (void)login:(nonnull LLPerson *)person;
