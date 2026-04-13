@@ -11,8 +11,6 @@
 #import "LLLocusLabsDelegate.h"
 #import "LLPOICheckinDelegate.h"
 
-@protocol GrabClientInterface;
-
 @class LLPerson;
 
 /**
@@ -98,21 +96,6 @@ NS_SWIFT_NAME(setAnalyticsUserProperty(_:forName:));
  * Sets the LLLocusLabsDelegate
  */
 @property (nonatomic, weak, nullable) id<LLLocusLabsDelegate> delegate;
-
-/**
- * The Grab customer ID. If nil, Grab will not be loaded.
- */
-@property (nonatomic, copy, nullable) NSString *grabCustomerId;
-
-/**
- * Optional dictionary defining styles for Grab.
- */
-@property (nonatomic, strong, nullable) NSDictionary *grabStyleDictionary;
-
-/**
- * The presenting navigation controller
- */
-@property (nonatomic, weak, nullable) UINavigationController *grabNavigationController;
 
 /**
  * Positiong/Location Accuracy setting

@@ -38,7 +38,7 @@
 		</data>
 		<key>Headers/LLConfiguration.h</key>
 		<data>
-		478pI1HVvDIryrDyj5VQqzl+pwk=
+		fs0HYwhHNYcq6U9USuCdbTULRbU=
 		</data>
 		<key>Headers/LLConstants.h</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Headers/LLLocusLabs.h</key>
 		<data>
-		UZA9fGn7aIvN7W6q5sz/tkouPbM=
+		DYhaaA2RVog0ou5Gf45AXrhNTcg=
 		</data>
 		<key>Headers/LLLocusLabsDelegate.h</key>
 		<data>
@@ -270,7 +270,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		5WeEaKfHTQJQB1HunWjS3HXHtvk=
+		XDs8GPv6fDRF4Wcnabx/My/rnEA=
 		</data>
 		<key>LICENSE.txt</key>
 		<data>
@@ -344,11 +344,29 @@
 		<data>
 		ISngYoE2yYXLWliUKebuXJMyrfE=
 		</data>
+		<key>am.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Lj/Him55JxT0rmzp8A0MdW8FM7E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>am.lproj/Localizable.stringsdict</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nytRJNLVLn6QQqKYgjdis18Kpug=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>ar.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4/ZQ0BtW3Ifw5XsmHqd9bwfcX+c=
+			izzY4Rk8GHlx+2h4MWG0VND6CwA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -357,7 +375,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fZaedqxV/yLRNN0S3GilwOdCFqY=
+			uuha8+5yh9iGAGAlL7PogMj30DQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -366,7 +384,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EBKAUMEiif9OlPoeimJc6WooY+I=
+			plsqG9S9wTvCi9tMUDTAMsb9sYo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -375,7 +393,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VkhN7W7MWlCzTOcHkbTyZehH9Uo=
+			B9K/bSrVmbUCv6Px/bXM2QA4sA8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -384,7 +402,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			O6QW4oGns+VoyzYT7NlM9jOj/1w=
+			pnyumb5WaOctjLHIbs9CIrHfcyQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -393,7 +411,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sasA7BLw23o5xYJT9scJLyLU5x4=
+			3SxR6npXGtqyAauCsKIBEOV8EWw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -402,7 +420,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xcNcHPv8zddmBcrsT+JJLr3c1Ks=
+			sOT/6GvEZ4bIy7ZCgu/iMXkGS1o=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -411,7 +429,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GFqv5jhGTH3VXFgGvwTJf/6rXvA=
+			ELRN5rC6s4hZxfScvfRBQfh3GLI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -420,7 +438,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RkQMSXbsUmzP+TMTVtA3Nb98t1w=
+			SyXGpXhbFeAhCl8o6GJAPE5i3IE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -429,7 +447,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GFqv5jhGTH3VXFgGvwTJf/6rXvA=
+			7AzoCEiNF9l0lWIEC+VGzU/SqLM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -438,7 +456,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qoCj/0ZPesDksmTvGyD2o2yo8Ew=
+			ZmXQRfnc6Di5MP0sFF5iBcyoQZY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -447,7 +465,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YX4lglasVGMX3S1RPN9cdc5WMv4=
+			0avHDHG4jhpdp1bZyyDwIdNHFmY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -456,7 +474,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3195q3QJMAMEsmIvVFgxFMiaauU=
+			7rSbaNZhBRrJDR3D5hMozPg639g=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -465,7 +483,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			L/btxOpUHNmE5pHDU3Rrz4OS8kQ=
+			OlN8Fn3Uziivn64SIYJgjJnbCzc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1498,7 +1516,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KgkDTqh336rzaaMZ2Gf8oDh5H9M=
+			2m9/0m3vgOH07ET6ZX2VXeSbyUc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1507,7 +1525,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0mD7eth5zEIs7yqTtl9HNLd/tw4=
+			qrCfeWad3QLCLcXmVLvZOS/rt8Y=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1516,7 +1534,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KTx+Kb2RMrrIAfkYxrSchVzi0lU=
+			wL101cmmjgcVgIZIA//XCJkAB4E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1525,7 +1543,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sDvEudcy+oMJrVlVN9ASDbrNqKk=
+			UvvpVwS+iFSGMSdXbzVIiCITzmg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1534,7 +1552,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			msq0AW7CMXpWy0w4xe85RyVqiEk=
+			2Ad2bASubkAevJmXdGPvWStWXhw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1543,7 +1561,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			s/DtZn2ozrbFXkdAlmNSuo6SG6s=
+			+SLrCFMTVVe499+PDJMOs/v9T+g=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3712,6 +3730,22 @@
 		<data>
 		j6Q5OjeGiydKOt34w8FdEvhNeBM=
 		</data>
+		<key>images/querywin-icon-external-link.png</key>
+		<data>
+		BeNujZcWhVtIjkqUFmvdziQ3zfo=
+		</data>
+		<key>images/querywin-icon-external-link.svg</key>
+		<data>
+		+q4SoMCZ6rhIoMshDjJ/ZHHLW30=
+		</data>
+		<key>images/querywin-icon-external-link@2x.png</key>
+		<data>
+		5c8IkCr19CPsedZsbRztVII0J1I=
+		</data>
+		<key>images/querywin-icon-external-link@3x.png</key>
+		<data>
+		cTB7Yd6e6M/CC3yjvJNY0pVovgA=
+		</data>
 		<key>images/querywin-icon-fav-is.png</key>
 		<data>
 		3jbheFHcATaxj21fOnJpPcNRIio=
@@ -4612,7 +4646,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ph2wg4x9j8Bh2dKV3uVgvGsL+JQ=
+			wJaq6ZbJYXUqFdx8tRP9AHJGSVI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4621,7 +4655,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			liWlsBKHMqkvHQhtklc1fSWmLao=
+			P6Cbpvy3tJnpxKLnMaUIFWjS/5c=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4630,7 +4664,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EOghreRLrhdO1X6/EJVyUBG9S58=
+			ltyB3P/EAp/0nPNqWdWvFvjd2Hk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4639,7 +4673,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TWQH1/7j1LFrYM5vxJd1Z1MxC3o=
+			qHe9mbm8+8SUujA/qa+mGKU4dJA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4648,7 +4682,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			N0cg11IAER3IQ3p1/h8UbC4vf6c=
+			0qNth8EPLPbaTBNqIY+wDC5R6qc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4657,7 +4691,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oKOsTRgKN7PjeNq46US7v1tGBNg=
+			CjbTkRloH2eUcEZClzXihKdHfb4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4666,7 +4700,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OBvBKFfRTa4bKad73vh+0ryKEz0=
+			8I+gYt2oSIjY9Pz9Xt5Lc4f7z58=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4675,7 +4709,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wIxt4r2CgfUHsKGg/KdeQCUlPYA=
+			ytKFlgBwRQZuC8sVu1JctErdqSc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4684,7 +4718,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qcO+/lBBuZPqltd2ZXdEUhVDGb0=
+			BmgnwDZjHWBiApj4xoBfLuqEKCw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4693,7 +4727,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GK084sqcEJV7ecVQPn3XPAw/CJQ=
+			Mcrq61z9vB3ZZkDKmeTMSeXfbOE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4702,7 +4736,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1PWzS+3qc57nD9i2fb4E5BugEYQ=
+			6slmCCbSnzTM3+P7cmGqTu+8ipw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4711,7 +4745,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CNJ8FoWVviDBNqdq/uR8utzVBUo=
+			zNGf4PN7X53hZVcJauCpsn3AYoQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4720,7 +4754,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eQKwb14HZdZTe1ptth0jrgGjI9g=
+			LwvnsZJxv2Jd4RzDv3XsBOnWcb8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4729,7 +4763,25 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dZVF1rjxiC08UZChJqLP0Mo+378=
+			fOJeuQv5NRxGzf4n59Z+Un2g15M=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>so.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KIE8FcjwicW5oFpqdq6QZRsdGiM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>so.lproj/Localizable.stringsdict</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cWwCJik7NqSUzPGOvMBZXUESMKI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4750,7 +4802,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vup9tnW26a8V8mM3A5qRJgv67wE=
+			uWSrtWNOBTruMU/ss9krTlQEyuM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4759,7 +4811,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8JUe2/DvHiiDTtDPAE4etwJ6HWE=
+			mJiQCbNLsakH7+fKXE7yjpymjiM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4780,7 +4832,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wJvgJxLN9GV9dvpGXTMwYp0+Umk=
+			Z0j6HXGbLVCIQF3H4QMfIYl5tFY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4789,7 +4841,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ABLNF8X8IgcQY16vqDwa2JB3AhM=
+			SuMVi1zoO5Q2PHjEow624z1hT3k=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4798,7 +4850,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			srA2TGQepQ2bDWzLy3wYfxMyY/c=
+			UnjN8nq+3t90+xjxqJMhuvsQgHo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4807,7 +4859,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1r2YA7Za9kSjmY3XLjAusiCimbY=
+			5bxvTKXaRCI4K4p9seRSjQz9yn4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4816,7 +4868,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Zf75R6NTwBVlqJX03dxkPOUtWMY=
+			6lHjV/LKKioTX90qBNQjJt9kuic=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4825,7 +4877,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			88llxiItqn8tWRfV8IvbnC4erQU=
+			hWwBEPvnrChFAPiFOmNOQo+alRw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4925,11 +4977,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			478pI1HVvDIryrDyj5VQqzl+pwk=
+			fs0HYwhHNYcq6U9USuCdbTULRbU=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ib8WS2rgRDEBzQhc+MXJe1896KABVW1bGXp48brlxHI=
+			c+pv1AqWB7nbbo3z/+mM9Sb4rHup9rxchQFDHs++eSw=
 			</data>
 		</dict>
 		<key>Headers/LLConstants.h</key>
@@ -5046,11 +5098,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UZA9fGn7aIvN7W6q5sz/tkouPbM=
+			DYhaaA2RVog0ou5Gf45AXrhNTcg=
 			</data>
 			<key>hash2</key>
 			<data>
-			jYtNNHa5BdMn+maJUDMZvtufLmpTkegUpqUTnF2ThwY=
+			Z5a/9hTvm2VgyxPqe6CqJKtY34QNjCpfg4uHWAfIXx0=
 			</data>
 		</dict>
 		<key>Headers/LLLocusLabsDelegate.h</key>
@@ -5757,15 +5809,41 @@
 			otXGFc7ikT0TF8Dm/nNRcDQHoXS+B1ZdNrGO6RPRBUo=
 			</data>
 		</dict>
+		<key>am.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Lj/Him55JxT0rmzp8A0MdW8FM7E=
+			</data>
+			<key>hash2</key>
+			<data>
+			3Iiv5abr9mcJ04tFAZ0jFzXoLUHO5i7rsvFrHeE5uHY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>am.lproj/Localizable.stringsdict</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nytRJNLVLn6QQqKYgjdis18Kpug=
+			</data>
+			<key>hash2</key>
+			<data>
+			dQw8zWACsGEf/ZD8qldJTWhACCFhuu1+3VJaypUuX/U=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>ar.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4/ZQ0BtW3Ifw5XsmHqd9bwfcX+c=
+			izzY4Rk8GHlx+2h4MWG0VND6CwA=
 			</data>
 			<key>hash2</key>
 			<data>
-			LjGrMor/gg4fchIKAnDbAHpfQeVNMhtfrmZVGx33fYA=
+			9OnrNhvN8bQBQszUBtX64rVdXFqX9AeLyXcfOX+TVpI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5774,11 +5852,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fZaedqxV/yLRNN0S3GilwOdCFqY=
+			uuha8+5yh9iGAGAlL7PogMj30DQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			VjzETyUn/I+MW+heVtXACNzf4xk0SLX2cN7rXxgN6CI=
+			oUiF3nFUbL+zpqnPP4Dmm/RFRQsWnSraBlPNgR0BzAM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5787,11 +5865,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EBKAUMEiif9OlPoeimJc6WooY+I=
+			plsqG9S9wTvCi9tMUDTAMsb9sYo=
 			</data>
 			<key>hash2</key>
 			<data>
-			GbedFBWFWemUcDHmH8dZm++lx+OdSZKaZNLumU5qgIU=
+			eAGsumWBYvV8MoO8eOS5qCgJoC1M8sK+g49J78/fHTE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5800,11 +5878,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			VkhN7W7MWlCzTOcHkbTyZehH9Uo=
+			B9K/bSrVmbUCv6Px/bXM2QA4sA8=
 			</data>
 			<key>hash2</key>
 			<data>
-			//ELdtxWRG9cpN3ImFB1qA+PbO1Ec4c/3ZG+JuMM+Sw=
+			cBxqLhaqTuky4/ZyS6Gbpyz5Vv1XuFJvsvTttM9YwOw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5813,11 +5891,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			O6QW4oGns+VoyzYT7NlM9jOj/1w=
+			pnyumb5WaOctjLHIbs9CIrHfcyQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			rkcEeHeCGt81wlEv8MJRxcAoUB0dom7hTsPQdMZgJ5Y=
+			sRXCNu/r0jKNAbOenyPT8Hcs4bbBj+GNkd5p0fVfdoc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5826,11 +5904,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sasA7BLw23o5xYJT9scJLyLU5x4=
+			3SxR6npXGtqyAauCsKIBEOV8EWw=
 			</data>
 			<key>hash2</key>
 			<data>
-			JoC0ZSJa6HyGCIqquRztzEGn8Y0HF/oM3O+kYR883Io=
+			K3N6YOWh5Re7wJX5ZI0yHveJF6ZhEs0B6B7oytFS/HY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5839,11 +5917,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			xcNcHPv8zddmBcrsT+JJLr3c1Ks=
+			sOT/6GvEZ4bIy7ZCgu/iMXkGS1o=
 			</data>
 			<key>hash2</key>
 			<data>
-			E754DA9AIKJtG++kaMvjbtT2/qieCcjfkONhUsRxr5g=
+			GMOq0H+RKCCOuiQmILCMsfTD2UbTKJJ/Co+z57u3Tic=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5852,11 +5930,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GFqv5jhGTH3VXFgGvwTJf/6rXvA=
+			ELRN5rC6s4hZxfScvfRBQfh3GLI=
 			</data>
 			<key>hash2</key>
 			<data>
-			emyxROThETzpebuFEFHtr4DuAjbY3xsZVaENvPXrRrc=
+			JkdbGUovanlty0THkV6/RJ/B3HNgs3mW79n28WYoils=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5865,11 +5943,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RkQMSXbsUmzP+TMTVtA3Nb98t1w=
+			SyXGpXhbFeAhCl8o6GJAPE5i3IE=
 			</data>
 			<key>hash2</key>
 			<data>
-			az20uZjaM9X6JVGZQtHIM5hwR6rWUZbkrwtdDjwOYwU=
+			6Mi/pS0B9ri9DmxViLlziZve9gFmhgAztRRotff9Y5Q=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5878,11 +5956,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GFqv5jhGTH3VXFgGvwTJf/6rXvA=
+			7AzoCEiNF9l0lWIEC+VGzU/SqLM=
 			</data>
 			<key>hash2</key>
 			<data>
-			emyxROThETzpebuFEFHtr4DuAjbY3xsZVaENvPXrRrc=
+			yA5X53qvW+ogHdUj97/HND/XfZffhW9GYYgkAEmM5Yw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5891,11 +5969,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qoCj/0ZPesDksmTvGyD2o2yo8Ew=
+			ZmXQRfnc6Di5MP0sFF5iBcyoQZY=
 			</data>
 			<key>hash2</key>
 			<data>
-			xHxBR8Zh/m3yzaArz5VL8M8uaZvcXfbaCIx/zUZzktg=
+			BnYM9n/2ly24jUkyZxqePkpfnSHuUm+Zl2UmD0EOhSk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5904,11 +5982,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YX4lglasVGMX3S1RPN9cdc5WMv4=
+			0avHDHG4jhpdp1bZyyDwIdNHFmY=
 			</data>
 			<key>hash2</key>
 			<data>
-			42vKMtElYdr6EgRr/c3c+67H1io7CMYpH1LPM7gP/ps=
+			PaqVGgDihMmBBzRTBZiOImr6zb47XMqdAmeBBnSvMgw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5917,11 +5995,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3195q3QJMAMEsmIvVFgxFMiaauU=
+			7rSbaNZhBRrJDR3D5hMozPg639g=
 			</data>
 			<key>hash2</key>
 			<data>
-			tlGcA+v81TEHvqPfOGIRimQzDJCWNHTuepPTIqMbHdY=
+			pdB0DnYUGDrcszxbDOacWyP3hrYz/q+TxPvGEJ3Uddk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5930,11 +6008,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			L/btxOpUHNmE5pHDU3Rrz4OS8kQ=
+			OlN8Fn3Uziivn64SIYJgjJnbCzc=
 			</data>
 			<key>hash2</key>
 			<data>
-			EDygkcxHpxuVCPnl81fPRtfjQNyHnHDjhebRNefssao=
+			pKX8I02cE1BWjEU+nHLgmDnBpv/WeUWlhZqsQt54Fgs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -8759,11 +8837,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KgkDTqh336rzaaMZ2Gf8oDh5H9M=
+			2m9/0m3vgOH07ET6ZX2VXeSbyUc=
 			</data>
 			<key>hash2</key>
 			<data>
-			l+uIBc7Xs4KxNMz7Uc2NAONpD19UmlFybK/CFQwIEaw=
+			11nSApimAPMmGJgLE2yYyQWCAzpD74wjL/64CP7Avxc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -8772,11 +8850,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0mD7eth5zEIs7yqTtl9HNLd/tw4=
+			qrCfeWad3QLCLcXmVLvZOS/rt8Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ui0IWJLg1W2JmZifr5PIMZUOk6OpVInPDr5jxfofv1s=
+			j4ADa0ZYKsGq8HI2j0hC8hJCxsoFAvdHFLx7gWXjtCM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -8785,11 +8863,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KTx+Kb2RMrrIAfkYxrSchVzi0lU=
+			wL101cmmjgcVgIZIA//XCJkAB4E=
 			</data>
 			<key>hash2</key>
 			<data>
-			Knpi3WrEbOa+Txypew0hMDu4BAwOtUjQGPHC7uW0eHc=
+			EP8qN0EdoelSVS3pK9ZnTiKs7ACnssBy0FfOXlWkrcE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -8798,11 +8876,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sDvEudcy+oMJrVlVN9ASDbrNqKk=
+			UvvpVwS+iFSGMSdXbzVIiCITzmg=
 			</data>
 			<key>hash2</key>
 			<data>
-			L9+l9N5/8x6+DDZ2UE7UuQc/u3eMD5Zb/bI80xptYWo=
+			DwJm8I+enh7c41zBiD1/MrARDzq70e5OP40bHhUKck0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -8811,11 +8889,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			msq0AW7CMXpWy0w4xe85RyVqiEk=
+			2Ad2bASubkAevJmXdGPvWStWXhw=
 			</data>
 			<key>hash2</key>
 			<data>
-			9yUbLeN9MUGHqrqn5WHSdRhZhnyBLvNjpaj5pr1AXng=
+			nYY/S7X2LEGvnz4Grt7ocHc1fs8xe7dMH1yuCSSS6ck=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -8824,11 +8902,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			s/DtZn2ozrbFXkdAlmNSuo6SG6s=
+			+SLrCFMTVVe499+PDJMOs/v9T+g=
 			</data>
 			<key>hash2</key>
 			<data>
-			DCvLD35fCVY8GhdlrSpRIpB2DB1v6BwavjOP0etHSQg=
+			kVQ+RikuerFPSR3hWBoStVdraHmYM3A0SafUJBNNJzY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -14784,6 +14862,50 @@
 			KCz+swS+OMcZybPCrLCNsHE4ZADZEw2aDjLubQExMe8=
 			</data>
 		</dict>
+		<key>images/querywin-icon-external-link.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BeNujZcWhVtIjkqUFmvdziQ3zfo=
+			</data>
+			<key>hash2</key>
+			<data>
+			VMazkg+FZD3TY3AMVA0Rr4WIQNQQ1Va8Uqww3JDWElo=
+			</data>
+		</dict>
+		<key>images/querywin-icon-external-link.svg</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+q4SoMCZ6rhIoMshDjJ/ZHHLW30=
+			</data>
+			<key>hash2</key>
+			<data>
+			t3l8jAB0xMq149tiBd+vfXyPR0mJLH8f8j0uT/7SCwM=
+			</data>
+		</dict>
+		<key>images/querywin-icon-external-link@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5c8IkCr19CPsedZsbRztVII0J1I=
+			</data>
+			<key>hash2</key>
+			<data>
+			1lWXgCPCl6Eo9EaRWFBq5g/oD0fqX/0d+0jgaIn77w8=
+			</data>
+		</dict>
+		<key>images/querywin-icon-external-link@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cTB7Yd6e6M/CC3yjvJNY0pVovgA=
+			</data>
+			<key>hash2</key>
+			<data>
+			ElYEujiCuEfh3M4k2DrjjSZp2eHYTZLy1L3YK5sp3vQ=
+			</data>
+		</dict>
 		<key>images/querywin-icon-fav-is.png</key>
 		<dict>
 			<key>hash</key>
@@ -17252,11 +17374,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ph2wg4x9j8Bh2dKV3uVgvGsL+JQ=
+			wJaq6ZbJYXUqFdx8tRP9AHJGSVI=
 			</data>
 			<key>hash2</key>
 			<data>
-			WY6PPfjfZQeqC54mgiCE/Fd+qZ2yee2TYXkjbI8UoLM=
+			e8BuP5qUQSJVws7wswSrQ1Rjw218mgp3/h8O+ZgI3sE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -17265,11 +17387,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			liWlsBKHMqkvHQhtklc1fSWmLao=
+			P6Cbpvy3tJnpxKLnMaUIFWjS/5c=
 			</data>
 			<key>hash2</key>
 			<data>
-			K7DG6caeCg7AG6vm8geVVFC5xnCkkWvSfcMLYZF4swM=
+			v4na0OCeQIxmYabuzmfyyMie7peHj4vzNmU8N2O9mTo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -17278,11 +17400,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EOghreRLrhdO1X6/EJVyUBG9S58=
+			ltyB3P/EAp/0nPNqWdWvFvjd2Hk=
 			</data>
 			<key>hash2</key>
 			<data>
-			6dx0mrE0TlGmEhgtK2eYVKCZXxWvVwAbduKLNTcEvt8=
+			aYvJ75yDmEF3fWgQjVM8yXm87FFvTlC4sb5OR6uifPs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -17291,11 +17413,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TWQH1/7j1LFrYM5vxJd1Z1MxC3o=
+			qHe9mbm8+8SUujA/qa+mGKU4dJA=
 			</data>
 			<key>hash2</key>
 			<data>
-			c3mXv5hKhivJqRmTFL+k9pVQmYzVsvfFhhGc4qUNJt8=
+			xZVf6e9IAofTAY1LhTupUkT7kEik0R/5RfAuGwnJudM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -17304,11 +17426,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			N0cg11IAER3IQ3p1/h8UbC4vf6c=
+			0qNth8EPLPbaTBNqIY+wDC5R6qc=
 			</data>
 			<key>hash2</key>
 			<data>
-			V8EoZ5vNqGZ1ryf+CqHjrdP+kqzb2gNhacicCf1zzJQ=
+			eiXqh/eTQ4uIe/R10n4Kt/o4exldBVzHtshGFZ5uHtE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -17317,11 +17439,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			oKOsTRgKN7PjeNq46US7v1tGBNg=
+			CjbTkRloH2eUcEZClzXihKdHfb4=
 			</data>
 			<key>hash2</key>
 			<data>
-			iW7xmLbPMO2Wz5LoZl/qWBeml2ILpVgcv7QK2ThNSlA=
+			KRh6L2/bSLT9Db9KyWZ7cU6qo1n46nO41sO1xxTi3io=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -17330,11 +17452,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OBvBKFfRTa4bKad73vh+0ryKEz0=
+			8I+gYt2oSIjY9Pz9Xt5Lc4f7z58=
 			</data>
 			<key>hash2</key>
 			<data>
-			Is/M3VZ4e1P7m51/vTPsEyyZKxjLkDkJNFQgqX0Th04=
+			xXyvsSH3eEOf/E2CBkveFpYnG0QXpYgYrHCzJ8k97S0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -17343,11 +17465,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wIxt4r2CgfUHsKGg/KdeQCUlPYA=
+			ytKFlgBwRQZuC8sVu1JctErdqSc=
 			</data>
 			<key>hash2</key>
 			<data>
-			99TpqkWVHL/4LQDf7zH9qZ+SG8txgSoFvJJxh7hUsM0=
+			2xsalwS6iZnuZnDmX+ZKv3LlympzuThH1Le1lCI2DJg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -17356,11 +17478,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qcO+/lBBuZPqltd2ZXdEUhVDGb0=
+			BmgnwDZjHWBiApj4xoBfLuqEKCw=
 			</data>
 			<key>hash2</key>
 			<data>
-			2QP+nDstO8pAIX8Dj7pwIg15GlTuxQpuDP5JHTafrAo=
+			jt5oyNY29MoqZHZsICdpwGREkakvePjApTZnxEuGsLU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -17369,11 +17491,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GK084sqcEJV7ecVQPn3XPAw/CJQ=
+			Mcrq61z9vB3ZZkDKmeTMSeXfbOE=
 			</data>
 			<key>hash2</key>
 			<data>
-			91n4KL6CpCcTaallJ2o10CNxLMqAbgBXtOldKTmrYWM=
+			+p7/4WxjK2wOGSE2wvAcmbSxqOm9cX4MCA6RlbqNsOg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -17382,11 +17504,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1PWzS+3qc57nD9i2fb4E5BugEYQ=
+			6slmCCbSnzTM3+P7cmGqTu+8ipw=
 			</data>
 			<key>hash2</key>
 			<data>
-			4RQFTuTJAqqydTlRq3i0D++cYtmj6smseSUKatPCQGI=
+			TTaI0AVNxJnfioZz8lBlfamnDHFaKXXpT7qsPFVtFUI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -17395,11 +17517,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CNJ8FoWVviDBNqdq/uR8utzVBUo=
+			zNGf4PN7X53hZVcJauCpsn3AYoQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			eRne5GXCjZltjv/D0KhVcKUusPQBAPafKeT8HTSLqJg=
+			mqkQCFHRHdNV7UaLH/lWtVOWFZipr2f3I//nyZU4lDg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -17408,11 +17530,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eQKwb14HZdZTe1ptth0jrgGjI9g=
+			LwvnsZJxv2Jd4RzDv3XsBOnWcb8=
 			</data>
 			<key>hash2</key>
 			<data>
-			QkGQ44hL7TDnJwCgKtYQQqxbJ43LHOsmfcZi67JrDQ0=
+			1kMnfPe5ZoXtvdqjlb83xctzwt0icWx04BY1sX5dL2I=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -17421,11 +17543,37 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dZVF1rjxiC08UZChJqLP0Mo+378=
+			fOJeuQv5NRxGzf4n59Z+Un2g15M=
 			</data>
 			<key>hash2</key>
 			<data>
-			OiGjJrY+RdIsEUewnJHW7msP3i59MNWWT8nPP1Em5mE=
+			N5bY9sMRfok15bsOBHkUCVjrhdAcz2K6XOhtAm0Sd0s=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>so.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KIE8FcjwicW5oFpqdq6QZRsdGiM=
+			</data>
+			<key>hash2</key>
+			<data>
+			iFIRS8alRqEvGuMmk2o52LOXn4viJI3ghE7GhMTpaWg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>so.lproj/Localizable.stringsdict</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cWwCJik7NqSUzPGOvMBZXUESMKI=
+			</data>
+			<key>hash2</key>
+			<data>
+			O6+HPLObCdQR6WPaEdpZ8HvlRxsp6Nshld/IL7++zbo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -17467,11 +17615,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vup9tnW26a8V8mM3A5qRJgv67wE=
+			uWSrtWNOBTruMU/ss9krTlQEyuM=
 			</data>
 			<key>hash2</key>
 			<data>
-			XZsSyah4TPgwEPlneBjLOopqt8lnOXWOKrGinJasuyQ=
+			wCcGaZsjVt2wryFcU/MxURwEQ9Qu92yUGTn53iJan94=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -17480,11 +17628,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8JUe2/DvHiiDTtDPAE4etwJ6HWE=
+			mJiQCbNLsakH7+fKXE7yjpymjiM=
 			</data>
 			<key>hash2</key>
 			<data>
-			9OWt69FhGc29WJl9ub0Y6XQDJsL6xslPKyt1rOSEqkM=
+			Fg4m1VGF89mvKRXregtxGtVe2HwkYE4REKhtFrhsfXI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -17526,11 +17674,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wJvgJxLN9GV9dvpGXTMwYp0+Umk=
+			Z0j6HXGbLVCIQF3H4QMfIYl5tFY=
 			</data>
 			<key>hash2</key>
 			<data>
-			1Slas6glHxT/bUeCMo3FPZ79dFtKX9M4IfSTtieDcXk=
+			KhjVA7q8th3+Z524B8YSVHBzyUhUQrtBESAS88tmr+o=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -17539,11 +17687,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ABLNF8X8IgcQY16vqDwa2JB3AhM=
+			SuMVi1zoO5Q2PHjEow624z1hT3k=
 			</data>
 			<key>hash2</key>
 			<data>
-			xNIeyeeQnmaJDBAFRjZ9FNVatFcMIwy+/ztt1wC1VEU=
+			5iRJg4BuaTOd4t8FfERSnz2CAtO2z9mTjLAuZprxgaY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -17552,11 +17700,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			srA2TGQepQ2bDWzLy3wYfxMyY/c=
+			UnjN8nq+3t90+xjxqJMhuvsQgHo=
 			</data>
 			<key>hash2</key>
 			<data>
-			gQ8QMrVHhEg8DQWiGuldOwblrcJqjGnDtwfo5WE+lh8=
+			QgnX5l1+9TzAxNNv6dO6Z+0FDwCQbs2RwRdd9sBPokM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -17565,11 +17713,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1r2YA7Za9kSjmY3XLjAusiCimbY=
+			5bxvTKXaRCI4K4p9seRSjQz9yn4=
 			</data>
 			<key>hash2</key>
 			<data>
-			QcoCK8OYaug0mlh+nRb1NUa1CXjrVosTkv637O9MmQ8=
+			nqJPQIlYdRO71ugf+WD4P8b7cfn4oKi+W3brp4YXR9I=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -17578,11 +17726,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Zf75R6NTwBVlqJX03dxkPOUtWMY=
+			6lHjV/LKKioTX90qBNQjJt9kuic=
 			</data>
 			<key>hash2</key>
 			<data>
-			wgRWUbbXc+ziPt9/FniIXiMhwOVCbYRZ/XCBYlaqYS4=
+			Wq6ykZDLPBn7BqzIA9CMvEQLgsWl/Ima5EitbEUQV1A=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -17591,11 +17739,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			88llxiItqn8tWRfV8IvbnC4erQU=
+			hWwBEPvnrChFAPiFOmNOQo+alRw=
 			</data>
 			<key>hash2</key>
 			<data>
-			xTzLFjy01Q6RLVBKX7OcOPLC+OYy4UQ30HHnMs+gfrs=
+			ELIQ4upT9HxYu+VJzEA31cgjbhoOI//NIJBcLnEyUhk=
 			</data>
 			<key>optional</key>
 			<true/>
