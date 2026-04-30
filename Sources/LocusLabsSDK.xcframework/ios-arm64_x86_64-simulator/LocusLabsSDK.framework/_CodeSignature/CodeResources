@@ -38,7 +38,7 @@
 		</data>
 		<key>Headers/LLConfiguration.h</key>
 		<data>
-		fs0HYwhHNYcq6U9USuCdbTULRbU=
+		2aEGM7ng/OSTw9cP2fkHDg5b/3A=
 		</data>
 		<key>Headers/LLConstants.h</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Headers/LLLocusLabs.h</key>
 		<data>
-		DYhaaA2RVog0ou5Gf45AXrhNTcg=
+		cuiVWtVaY2Brz/aCY16GYbNYpfw=
 		</data>
 		<key>Headers/LLLocusLabsDelegate.h</key>
 		<data>
@@ -210,7 +210,7 @@
 		</data>
 		<key>Headers/LLQueue.h</key>
 		<data>
-		Fx3+LX3q9oX2Knim6+kgMtbAaKg=
+		+3knUqKU66DM/wfl8yxV9ZXmOlY=
 		</data>
 		<key>Headers/LLSearch.h</key>
 		<data>
@@ -270,7 +270,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		XDs8GPv6fDRF4Wcnabx/My/rnEA=
+		ZdVo6XZ3LzGyLcKVCMvRXcCpZeQ=
 		</data>
 		<key>LICENSE.txt</key>
 		<data>
@@ -4518,15 +4518,15 @@
 		<data>
 		Veacyaplg0AWdDDNUwdkbk2qBuI=
 		</data>
-		<key>images/security-icon-ImmigrationLane-globalEntry.png</key>
+		<key>images/security-icon-ImmigrationLane-global.png</key>
 		<data>
 		v7Lafazp1EQd3FpCKSXkhWFQ78E=
 		</data>
-		<key>images/security-icon-ImmigrationLane-globalEntry@2x.png</key>
+		<key>images/security-icon-ImmigrationLane-global@2x.png</key>
 		<data>
 		QYeBvFn9Ac4tEpKF/oWWsWm58zo=
 		</data>
-		<key>images/security-icon-ImmigrationLane-globalEntry@3x.png</key>
+		<key>images/security-icon-ImmigrationLane-global@3x.png</key>
 		<data>
 		59Bfby8lMGjtOyVLBjdmlQY1CCc=
 		</data>
@@ -4977,11 +4977,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fs0HYwhHNYcq6U9USuCdbTULRbU=
+			2aEGM7ng/OSTw9cP2fkHDg5b/3A=
 			</data>
 			<key>hash2</key>
 			<data>
-			c+pv1AqWB7nbbo3z/+mM9Sb4rHup9rxchQFDHs++eSw=
+			EqD23MAX0LJXqQgQQnxGTdDDBpj7KZR7kgCuUH5fxiQ=
 			</data>
 		</dict>
 		<key>Headers/LLConstants.h</key>
@@ -5098,11 +5098,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DYhaaA2RVog0ou5Gf45AXrhNTcg=
+			cuiVWtVaY2Brz/aCY16GYbNYpfw=
 			</data>
 			<key>hash2</key>
 			<data>
-			Z5a/9hTvm2VgyxPqe6CqJKtY34QNjCpfg4uHWAfIXx0=
+			aJV14jU/bVaSptpMtiEkY2Jbg69kMftbN8HcBYRYAy4=
 			</data>
 		</dict>
 		<key>Headers/LLLocusLabsDelegate.h</key>
@@ -5450,11 +5450,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Fx3+LX3q9oX2Knim6+kgMtbAaKg=
+			+3knUqKU66DM/wfl8yxV9ZXmOlY=
 			</data>
 			<key>hash2</key>
 			<data>
-			yROqBIgvBpXmJO5YRvFz82ZrJ4eVkT/nrHqkQfJcCxI=
+			SLmWYTg6x8ZHydAHiEJ2FyQSmlKRdnKbP5f7MPu7Q7g=
 			</data>
 		</dict>
 		<key>Headers/LLSearch.h</key>
@@ -17029,7 +17029,7 @@
 			7FHmy1BS9yMoKcp0EAD+MudrYtYfLEyhLjo9iLprEhg=
 			</data>
 		</dict>
-		<key>images/security-icon-ImmigrationLane-globalEntry.png</key>
+		<key>images/security-icon-ImmigrationLane-global.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -17040,7 +17040,7 @@
 			cu2ehkw0EfD22AFMGqEFGgpzJNdydTeZ1sMxvJGHaJs=
 			</data>
 		</dict>
-		<key>images/security-icon-ImmigrationLane-globalEntry@2x.png</key>
+		<key>images/security-icon-ImmigrationLane-global@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -17051,7 +17051,7 @@
 			JZ8eFH+5yg2fVxqb0DX+DYEd1jIOr5uezP8SyUiQsnw=
 			</data>
 		</dict>
-		<key>images/security-icon-ImmigrationLane-globalEntry@3x.png</key>
+		<key>images/security-icon-ImmigrationLane-global@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>

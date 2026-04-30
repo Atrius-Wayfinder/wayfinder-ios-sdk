@@ -98,6 +98,30 @@ NS_SWIFT_NAME(setAnalyticsUserProperty(_:forName:));
 @property (nonatomic, weak, nullable) id<LLLocusLabsDelegate> delegate;
 
 /**
+ * The Grab customer ID.
+ *
+ * **Deprecated:** The Grab SDK has been removed. Mobile ordering is now driven by POI links with type `mobileordering`. Setting this property has no effect.
+ */
+@property (nonatomic, copy, nullable) NSString *grabCustomerId
+    __attribute__((deprecated("The Grab SDK has been removed. Mobile ordering is driven by POI links with type 'mobileordering'. Setting this has no effect.")));
+
+/**
+ * Optional dictionary defining styles for Grab.
+ *
+ * **Deprecated:** The Grab SDK has been removed. Setting this property has no effect.
+ */
+@property (nonatomic, strong, nullable) NSDictionary *grabStyleDictionary
+    __attribute__((deprecated("The Grab SDK has been removed. Setting this has no effect.")));
+
+/**
+ * The presenting navigation controller for Grab.
+ *
+ * **Deprecated:** The Grab SDK has been removed. Setting this property has no effect.
+ */
+@property (nonatomic, weak, nullable) UINavigationController *grabNavigationController
+    __attribute__((deprecated("The Grab SDK has been removed. Setting this has no effect.")));
+
+/**
  * Positiong/Location Accuracy setting
  * Setting this to YES allows the SDK to track the users position/location at the highest
  * level of accuracy.  This also drains the battery more quickly.

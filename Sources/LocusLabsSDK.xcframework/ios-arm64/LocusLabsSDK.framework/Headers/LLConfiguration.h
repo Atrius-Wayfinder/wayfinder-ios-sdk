@@ -36,6 +36,15 @@
 
 // String & Other Constants
 @property (nonatomic, strong, null_resettable) NSString *cancelButtonLabel;
+
+/**
+ * Label used for the bottom bar Grab ordering button.
+ *
+ * **Deprecated:** The Grab SDK has been removed. This label is no longer read by the SDK; the mobile ordering button uses the `POIMobileOrderingButton` localized string.
+ */
+@property (nonatomic, strong, null_resettable) NSString *bottomBarGrabButtonLabel
+    __attribute__((deprecated("The Grab SDK has been removed. This label is no longer read by the SDK; the mobile ordering button uses the 'POIMobileOrderingButton' localized string.")));
+
 @property (nonatomic, strong, nonnull) NSNumber *currentLevelFadeDuration;
 @property (nonatomic, strong, nonnull) NSNumber *currentLevelFadeDelay;
 

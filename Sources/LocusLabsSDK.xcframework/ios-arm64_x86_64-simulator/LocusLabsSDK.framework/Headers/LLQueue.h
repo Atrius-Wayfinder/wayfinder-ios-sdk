@@ -17,10 +17,21 @@ extern NSString *const _Nonnull LLSecurityLaneGeneral;
 extern NSString *const _Nonnull LLSecurityLaneTSAPre;
 extern NSString *const _Nonnull LLSecurityLaneClear;
 extern NSString *const _Nonnull LLSecurityLanePriority;
+extern NSString *const _Nonnull LLSecurityLaneFastTrack;
+extern NSString *const _Nonnull LLSecurityLaneSkyPriority;
+extern NSString *const _Nonnull LLSecurityLaneLocusPriority;
 
 // Predefined subtypes of "ImmigrationLane" queue type
 extern NSString *const _Nonnull LLImmigrationLaneResident;
 extern NSString *const _Nonnull LLImmigrationLaneVisitor;
+/**
+ * The Global Entry immigration lane.
+ *
+ * The SDK accepts both `"global"` and `"globalEntry"` from venue/POI JSON for this subtype:
+ * `"globalEntry"` (the spelling used by the Wayfinder Web Engine) is normalized to `"global"`
+ * at ingestion. Host apps should continue to use this constant when reading or writing user
+ * preferences; both spellings will route the user through the same lane.
+ */
 extern NSString *const _Nonnull LLImmigrationLaneGlobalEntry;
 
 @class LLQueueType;
