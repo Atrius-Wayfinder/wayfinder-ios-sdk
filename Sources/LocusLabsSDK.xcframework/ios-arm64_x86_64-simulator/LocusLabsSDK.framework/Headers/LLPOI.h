@@ -44,6 +44,11 @@ typedef enum {
 @property (nonatomic, readonly) NSString *urlDisplay;
 
 /**
+ *  The mobile ordering URL associated with this POI, if applicable. If the POI has Grab/Servvy or other mobile ordering traits, this will provide the link for ordering.
+ */
+@property (nonatomic, readonly) NSString *mobileOrderingUrl;
+
+/**
  *	Additional attributes for the POI.
  */
 @property (nonatomic, readonly) NSDictionary *additionalAttributes;
