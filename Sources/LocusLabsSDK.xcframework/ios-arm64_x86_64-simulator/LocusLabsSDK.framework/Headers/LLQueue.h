@@ -27,12 +27,21 @@ extern NSString *const _Nonnull LLImmigrationLaneVisitor;
 /**
  * The Global Entry immigration lane.
  *
- * The SDK accepts both `"global"` and `"globalEntry"` from venue/POI JSON for this subtype:
- * `"globalEntry"` (the spelling used by the Wayfinder Web Engine) is normalized to `"global"`
- * at ingestion. Host apps should continue to use this constant when reading or writing user
- * preferences; both spellings will route the user through the same lane.
+ * The canonical value is `"globalEntry"`, matching the Wayfinder Web Engine. The SDK also accepts
+ * the legacy `"global"` spelling from venue/POI JSON and from previously persisted preferences,
+ * normalizing it to `"globalEntry"` at ingestion. Host apps should use this constant when reading
+ * or writing user preferences; both spellings route the user through the same lane.
  */
 extern NSString *const _Nonnull LLImmigrationLaneGlobalEntry;
+
+/**
+ * Legacy alias for the Global Entry immigration lane subtype.
+ *
+ * Use LLImmigrationLaneGlobalEntry instead. The SDK still accepts this `"global"` value from
+ * venue/POI JSON and from previously persisted user preferences, normalizing it to
+ * LLImmigrationLaneGlobalEntry; both spellings route the user through the same lane.
+ */
+extern NSString *const _Nonnull LLImmigrationLaneGlobal __attribute__((deprecated("Use LLImmigrationLaneGlobalEntry (\"globalEntry\"); \"global\" is accepted only as a legacy alias.")));
 
 @class LLQueueType;
 @class LLQueueSubtype;

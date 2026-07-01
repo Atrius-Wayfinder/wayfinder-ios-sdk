@@ -210,7 +210,7 @@
 		</data>
 		<key>Headers/LLQueue.h</key>
 		<data>
-		+3knUqKU66DM/wfl8yxV9ZXmOlY=
+		asYeMrx+IF8KazUlRqBFkZPFHbk=
 		</data>
 		<key>Headers/LLSearch.h</key>
 		<data>
@@ -270,7 +270,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		DpenhRKeptPvBshJlOjkSULI+nU=
+		PtsfTL8Bzu0Dmq20NfzftkeueLo=
 		</data>
 		<key>LICENSE.txt</key>
 		<data>
@@ -4518,15 +4518,15 @@
 		<data>
 		Veacyaplg0AWdDDNUwdkbk2qBuI=
 		</data>
-		<key>images/security-icon-ImmigrationLane-global.png</key>
+		<key>images/security-icon-ImmigrationLane-globalEntry.png</key>
 		<data>
 		v7Lafazp1EQd3FpCKSXkhWFQ78E=
 		</data>
-		<key>images/security-icon-ImmigrationLane-global@2x.png</key>
+		<key>images/security-icon-ImmigrationLane-globalEntry@2x.png</key>
 		<data>
 		QYeBvFn9Ac4tEpKF/oWWsWm58zo=
 		</data>
-		<key>images/security-icon-ImmigrationLane-global@3x.png</key>
+		<key>images/security-icon-ImmigrationLane-globalEntry@3x.png</key>
 		<data>
 		59Bfby8lMGjtOyVLBjdmlQY1CCc=
 		</data>
@@ -5450,11 +5450,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+3knUqKU66DM/wfl8yxV9ZXmOlY=
+			asYeMrx+IF8KazUlRqBFkZPFHbk=
 			</data>
 			<key>hash2</key>
 			<data>
-			SLmWYTg6x8ZHydAHiEJ2FyQSmlKRdnKbP5f7MPu7Q7g=
+			sujoVXajY30WEkN+zbw9T6UpHQwPkS8hGm+pL+2QhVk=
 			</data>
 		</dict>
 		<key>Headers/LLSearch.h</key>
@@ -17029,7 +17029,7 @@
 			7FHmy1BS9yMoKcp0EAD+MudrYtYfLEyhLjo9iLprEhg=
 			</data>
 		</dict>
-		<key>images/security-icon-ImmigrationLane-global.png</key>
+		<key>images/security-icon-ImmigrationLane-globalEntry.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -17040,7 +17040,7 @@
 			cu2ehkw0EfD22AFMGqEFGgpzJNdydTeZ1sMxvJGHaJs=
 			</data>
 		</dict>
-		<key>images/security-icon-ImmigrationLane-global@2x.png</key>
+		<key>images/security-icon-ImmigrationLane-globalEntry@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
@@ -17051,7 +17051,7 @@
 			JZ8eFH+5yg2fVxqb0DX+DYEd1jIOr5uezP8SyUiQsnw=
 			</data>
 		</dict>
-		<key>images/security-icon-ImmigrationLane-global@3x.png</key>
+		<key>images/security-icon-ImmigrationLane-globalEntry@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
