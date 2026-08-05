@@ -50,6 +50,12 @@
  *  userInfo:   "latLng"        LLLatLng indicating the proposed new position
  *              "errorRadius"   NSNumber indicating the accuracy of the new position (represented by a circle in meters)
  *              "floorId"       NSString with the floorId of the relevant floor
+ *
+ *  Rate limited: the SDK applies at most 2 position updates per second. It is safe to post faster
+ *  than that - the first update is applied immediately and updates posted inside the window are
+ *  collapsed, with the most recent one applied when the window closes, so no position is ever lost
+ *  in favour of an older one. A position on a different floor is always applied immediately. Posting
+ *  faster than 2Hz gains nothing: the map's position marker and camera each animate over 0.5s.
  */
 #define NOTIFICATION_POSITION_SENSOR_POSITION_CHANGED     @"Position Sensor Position Changed"
 
@@ -61,6 +67,10 @@
  *
  *  object:     not used
  *  userInfo:   "heading"        Value between 0 - 360. 0 = North, 90 = East, 180 = South, 270 = West
+ *
+ *  Ignored until there is a position to attach the heading to. Changes of less than 3 degrees are
+ *  ignored, and accepted changes share the rate limit described for
+ *  NOTIFICATION_POSITION_SENSOR_POSITION_CHANGED above.
  */
 #define NOTIFICATION_POSITION_HEADING_CHANGED     @"Position Sensor Heading Changed"
 

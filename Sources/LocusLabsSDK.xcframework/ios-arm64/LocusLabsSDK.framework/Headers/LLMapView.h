@@ -238,6 +238,23 @@
  */
 @property (nonatomic) BOOL compassEnabled;
 
+/**
+ * Opt-in to WorldView, a contextual overlay of surrounding roads, parks, water, railways,
+ * and locality labels rendered in place of the venue basemap's own surround layers, beneath
+ * venue buildings and labels. WorldView data is sourced from per-venue vector tiles hosted
+ * on the Atrius CDN.
+ *
+ * WorldView is currently available only for a limited set of venues; enabling this property
+ * on a venue without WorldView data has no visible effect.
+ *
+ * The property may be set before the venue loads or toggled at runtime. Enabling adds the
+ * WorldView overlay and relaxes the camera limits to the venue's surroundings; disabling
+ * removes the overlay, restores the venue basemap, and restores the venue camera limits.
+ *
+ * By default it's set to <code>NO</code>.
+ */
+@property (nonatomic) BOOL worldViewEnabled;
+
 @property (retain,nonatomic) UINavigationController *mapTipsNavigationController;
 @property (nonatomic) LLMapTipsPopupMethod mapTipsPopupMethod;
 

@@ -42,7 +42,7 @@
 		</data>
 		<key>Headers/LLConstants.h</key>
 		<data>
-		3L93+thwUk376CUTVvqCoFfqLpE=
+		elhu6U7A7kQy6CAjmAL8DuCktjo=
 		</data>
 		<key>Headers/LLCurvedPath.h</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Headers/LLMapView.h</key>
 		<data>
-		jDAzfs5HJAIKzqRTwaJSV5gJxrA=
+		sgY8YRr1ELf++QxosRrxqRoFkhs=
 		</data>
 		<key>Headers/LLMapViewDelegate.h</key>
 		<data>
@@ -270,7 +270,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		kBm/VDwuw5w2kQy8796P+UvNxYI=
+		Uq6Ks1uwAm6JOuWbm10D61ZoDlY=
 		</data>
 		<key>LICENSE.txt</key>
 		<data>
@@ -438,7 +438,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SyXGpXhbFeAhCl8o6GJAPE5i3IE=
+			Vu3Dq9j5CbDoUxaO+hSmFnPXnRo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4988,11 +4988,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3L93+thwUk376CUTVvqCoFfqLpE=
+			elhu6U7A7kQy6CAjmAL8DuCktjo=
 			</data>
 			<key>hash2</key>
 			<data>
-			Nt4TL+CAjQnTpSUjSME8jBs+TbOTfzkqAG8zx6P8QZg=
+			Xq9HyIGC/1im7Rcze+1/tUchMm9aDemI3HnqCPMrWvI=
 			</data>
 		</dict>
 		<key>Headers/LLCurvedPath.h</key>
@@ -5175,11 +5175,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jDAzfs5HJAIKzqRTwaJSV5gJxrA=
+			sgY8YRr1ELf++QxosRrxqRoFkhs=
 			</data>
 			<key>hash2</key>
 			<data>
-			rzdUSr5rgdvu7IvuWb70ZJ+62YEfp9JQEQZL19p3Bmc=
+			26L0qBcxFxY/O2wFbAQCC208XPo/DiaqIAWRhQl3gG8=
 			</data>
 		</dict>
 		<key>Headers/LLMapViewDelegate.h</key>
@@ -5943,11 +5943,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SyXGpXhbFeAhCl8o6GJAPE5i3IE=
+			Vu3Dq9j5CbDoUxaO+hSmFnPXnRo=
 			</data>
 			<key>hash2</key>
 			<data>
-			6Mi/pS0B9ri9DmxViLlziZve9gFmhgAztRRotff9Y5Q=
+			dseMMlHeR9XySJKyUJW4CeQNxWd34x7GrurM/dCnOaU=
 			</data>
 			<key>optional</key>
 			<true/>
