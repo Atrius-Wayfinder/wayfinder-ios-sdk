@@ -255,6 +255,60 @@
  */
 @property (nonatomic) BOOL worldViewEnabled;
 
+/**
+ * Renders WorldView in a high-contrast accessibility style — a bold, saturated
+ * palette with thicker label halos for low-vision and color-blind users. While
+ * active, the venue's background and footprint are tinted to match. Has no
+ * effect unless <code>worldViewEnabled</code> is set.
+ *
+ * The property may be set before the venue loads or toggled at runtime. When
+ * the iOS "Increase Contrast" accessibility setting is on, the SDK sets this
+ * property to <code>YES</code> automatically at map load and whenever the
+ * setting changes; the property remains the source of truth and can be
+ * changed afterwards.
+ *
+ * By default it's set to <code>NO</code>.
+ */
+@property (nonatomic) BOOL worldViewHighContrastEnabled;
+
+/**
+ * Whether the camera pan range is clamped to a box around the venue center
+ * while WorldView is active. Has no effect unless <code>worldViewEnabled</code>
+ * is set. Set to <code>NO</code> for unrestricted panning across the
+ * surroundings. Read when WorldView activates — changes take effect at the
+ * next venue load or WorldView re-enable.
+ *
+ * Mirrors the Android SDK's <code>worldViewClampPan</code>.
+ * By default it's set to <code>YES</code>.
+ */
+@property (nonatomic) BOOL worldViewClampPan;
+
+/**
+ * Radius, in miles, of the WorldView pan-clamp box around the venue center.
+ * Has no effect unless <code>worldViewEnabled</code> and
+ * <code>worldViewClampPan</code> are set. When <code>nil</code> the shared
+ * cross-platform default of 5 miles is used. Read when WorldView activates —
+ * changes take effect at the next venue load or WorldView re-enable.
+ *
+ * Mirrors the Android SDK's <code>worldViewMaxPanMilesOverride</code>.
+ * By default it's set to <code>nil</code>.
+ */
+@property (nonatomic, strong) NSNumber *worldViewMaxPanMilesOverride;
+
+/**
+ * The minimum zoom level enforced while WorldView is active — the zoom-out
+ * floor that keeps the surroundings from becoming sparse/blank and caps tile
+ * egress. Has no effect unless <code>worldViewEnabled</code> is set. Set to
+ * <code>nil</code> to allow zooming all the way out. The floor only ever
+ * loosens the venue's own zoom limits, never tightens them. Read when
+ * WorldView activates — changes take effect at the next venue load or
+ * WorldView re-enable.
+ *
+ * Mirrors the Android SDK's <code>worldViewMinZoomOverride</code>.
+ * By default it's set to <code>12</code>.
+ */
+@property (nonatomic, strong) NSNumber *worldViewMinZoomOverride;
+
 @property (retain,nonatomic) UINavigationController *mapTipsNavigationController;
 @property (nonatomic) LLMapTipsPopupMethod mapTipsPopupMethod;
 
