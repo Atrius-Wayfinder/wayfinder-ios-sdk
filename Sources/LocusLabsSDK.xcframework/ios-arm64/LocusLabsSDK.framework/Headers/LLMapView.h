@@ -15,11 +15,38 @@
 #import <LocusLabsSDK/LLPosition.h>
 
 @class LLVenue;
+@class LLDirectionsRequest;
 @class LLFlight;
 @class LLMap;
 @class LLPOI;
 @class LLPositionManager;
 @class LLTheme;
+
+/**
+ * Reasons [LLMapView showMultipointDirections:error:] can fail. The reported errors use the
+ * <code>com.locuslabs.ios.LocusLabsSDK.navigation</code> domain.
+ */
+typedef NS_ENUM(NSInteger, LLMultipointDirectionsErrorCode) {
+    /**
+     * The request describes fewer than two positions, so there is no route to draw. A request holds
+     * one position for its [LLDirectionsRequest startPosition] plus one per entry in
+     * [LLDirectionsRequest endPositions].
+     */
+    LLMultipointDirectionsErrorCodeNotEnoughPositions = 1,
+
+    /**
+     * One of the positions is unusable for routing: it is missing, or it has no latLng or no floorId.
+     * The error's localized description names the zero based index of the offending position, where
+     * index 0 is the startPosition.
+     */
+    LLMultipointDirectionsErrorCodeInvalidPosition = 2,
+
+    /**
+     * No route exists that visits all of the positions in order, with the request's accessibility and
+     * queue routing options applied.
+     */
+    LLMultipointDirectionsErrorCodeRouteNotFound = 3,
+};
 
 /**
  *  UIView for displaying LocusLabs floor maps.
@@ -161,6 +188,29 @@
  * Programmatically open the navigation dialog passing in an array of positions
  */
 -(void)openNavigationViewWithPositions:(NSArray<LLPosition *>*)positions;
+
+/**
+ * Calculate the route described by directionsRequest and display it on the map, visiting every
+ * position in order: the [LLDirectionsRequest startPosition] first, then each
+ * [LLDirectionsRequest endPositions] entry. Two positions draw a plain A to B route, three or more
+ * draw a multipoint route with a stop at each position.
+ *
+ * Unlike openNavigationViewWithPositions: this does not open the directions dialog - the route is
+ * calculated and rendered directly, the same way navigateFromStart:end: does for a single leg.
+ *
+ * The request's forceWheelchairAccessibleRoute is honoured exactly as set. Its queueRoutingOptions
+ * are used when non-nil; when nil the user's saved queue lane preferences are used instead, so the
+ * route matches what the map's own directions UI would produce.
+ *
+ * On failure nothing is drawn and the map is left as it was - the SDK does not present an alert, so
+ * that the host app can report the problem in its own way.
+ *
+ * @param directionsRequest the route to display.
+ * @param errorCallback called on the main queue with the reason the route could not be displayed,
+ *        and not called at all on success. See LLMultipointDirectionsErrorCode for the reasons. May
+ *        be nil, in which case failures are only logged.
+ */
+- (void)showMultipointDirections:(LLDirectionsRequest *)directionsRequest error:(void (^)(NSError *error))errorCallback;
 
 /**
  * Programmatically cancel the user initiated navigation.
