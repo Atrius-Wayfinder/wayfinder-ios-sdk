@@ -64,4 +64,18 @@
  */
 @property (nonatomic, readonly) NSNumber *securityCheckpoint;
 
+/**
+ * The queue type id of the queue this step goes through, for example <code>LLQueueTypeSecurityLane</code> for a security checkpoint.
+ * nil if the step doesn't go through a queue.
+ */
+@property (nonatomic, readonly) NSString *queueTypeId;
+
+/**
+ * The id of the POI this step goes through, for example the security checkpoint lane, or nil if there is none.
+ *
+ * Load it with [LLPOIDatabase loadPOI:completion:] and call [LLPOI availableQueueSubtypeIdsForQueueTypeId:] with queueTypeId
+ * to list the lanes available at that checkpoint.
+ */
+@property (nonatomic, readonly) NSString *poiId;
+
 @end

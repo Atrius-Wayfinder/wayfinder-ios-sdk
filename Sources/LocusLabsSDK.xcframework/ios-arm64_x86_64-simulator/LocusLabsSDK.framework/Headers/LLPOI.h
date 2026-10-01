@@ -186,6 +186,21 @@ typedef enum {
  */
 @property (nonatomic, readonly) NSNumber *isAfterSecurity;
 
+/**
+ * The queue subtype ids available at the checkpoint this POI belongs to, for the given queue type.
+ *
+ * A checkpoint usually has one POI per lane (for example General and CLEAR) that share a checkpoint id. Called on any of
+ * those POIs, this returns the subtype ids of every lane at that checkpoint, starting with this POI's own lane, for example
+ * <code>@[LLSecurityLaneGeneral, LLSecurityLaneClear]</code>. Use [LLVenue queueTypes] for each lane's display text and logo,
+ * and pass the chosen ids to [LLDirectionsRequest setQueueSubtypeIds:forQueueTypeId:].
+ *
+ * The other lanes are only known for POIs loaded from the venue's LLPOIDatabase.
+ *
+ * @param queueTypeId [LLQueueType typeId], for example <code>LLQueueTypeSecurityLane</code>
+ * @return an array of [LLQueueSubtype subtypeId], or an empty array if this POI is not a queue of the given type
+ */
+- (NSArray<NSString *> *)availableQueueSubtypeIdsForQueueTypeId:(NSString *)queueTypeId NS_SWIFT_NAME(availableQueueSubtypeIds(queueTypeId:));
+
 - (BOOL)isEqual:(id)object;
 
 @property (nonatomic, readonly) NSUInteger hash;
